@@ -1,0 +1,2018 @@
+,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours
+0,0.8270000000000001,Male,Has relevent experience,Full time course,Graduate,STEM,9,<10,Missing,1,21
+1,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Pvt Ltd,1,98
+2,0.624,Male,No relevent experience,no_enrollment,High School,No Major,<1,Missing,Pvt Ltd,never,15
+3,0.8270000000000001,Male,Has relevent experience,no_enrollment,Masters,STEM,11,10-49,Pvt Ltd,1,39
+4,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,72
+5,0.899,Male,No relevent experience,Part time course,Masters,STEM,10,Missing,Missing,2,12
+6,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,<1,100-499,Pvt Ltd,1,11
+7,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,81
+8,0.878,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,Missing,Missing,4,2
+10,0.92,Male,Has relevent experience,no_enrollment,Masters,Other,>20,Missing,Missing,>4,196
+11,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,10-49,Pvt Ltd,2,51
+12,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Other,never,48
+13,0.949,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,4,100-499,Pvt Ltd,1,134
+14,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,5,No company,No company,never,10
+15,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,13,1000-4999,Pvt Ltd,1,125
+16,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,4,100-499,Pvt Ltd,1,4
+17,0.8270000000000001,Male,Has relevent experience,no_enrollment,Masters,Business Degree,2,50-99,Pvt Ltd,1,31
+18,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,Missing,Pvt Ltd,4,23
+20,0.92,Unspecified,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,74
+21,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Missing,1,44
+22,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,1000-4999,Pvt Ltd,3,33
+23,0.92,Male,No relevent experience,Full time course,Graduate,STEM,1,Missing,Missing,1,81
+24,0.722,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,100-499,Pvt Ltd,>4,19
+25,0.92,Female,Has relevent experience,Part time course,Graduate,STEM,15,Missing,Public Sector,>4,48
+26,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,65
+27,0.92,Male,No relevent experience,Full time course,Graduate,STEM,6,Missing,Public Sector,1,46
+28,0.698,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,16,Missing,Pvt Ltd,1,78
+30,0.754,Unspecified,Has relevent experience,Full time course,Graduate,STEM,5,50-99,Pvt Ltd,1,29
+31,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,1,10
+33,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,4,43
+34,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,18
+35,0.903,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,17,50-99,Pvt Ltd,>4,8
+36,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,>20,100-499,Pvt Ltd,>4,8
+37,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,145
+38,0.624,Unspecified,No relevent experience,Full time course,Masters,STEM,<1,10-49,Pvt Ltd,1,22
+39,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Early Stage Startup,1,9
+40,0.89,Male,Has relevent experience,no_enrollment,Masters,STEM,13,Missing,Public Sector,1,20
+41,0.92,Female,Has relevent experience,no_enrollment,Graduate,Arts,4,50-99,Pvt Ltd,1,20
+42,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,100-499,Pvt Ltd,4,130
+43,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,2,3
+44,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,1,Missing,Missing,1,23
+45,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,5,100-499,Pvt Ltd,1,49
+46,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,270
+47,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,6,1000-4999,Pvt Ltd,1,23
+48,0.926,Male,No relevent experience,Full time course,Masters,STEM,3,10-49,Pvt Ltd,1,35
+49,0.698,Male,No relevent experience,Full time course,High School,No Major,2,No company,No company,never,87
+50,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,50-99,Pvt Ltd,1,37
+51,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,Pvt Ltd,1,158
+52,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,8
+54,0.794,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,14,100-499,Pvt Ltd,1,15
+55,0.92,Unspecified,No relevent experience,Full time course,High School,No Major,1,Missing,Missing,1,48
+56,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,8,1000-4999,Pvt Ltd,2,40
+58,0.923,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,1000-4999,Pvt Ltd,2,14
+59,0.92,Other,Has relevent experience,Full time course,Graduate,STEM,5,Missing,Missing,1,132
+60,0.925,Male,Has relevent experience,no_enrollment,High School,No Major,7,50-99,Pvt Ltd,1,31
+61,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,8
+62,0.939,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,19,Missing,Missing,2,72
+64,0.6659999999999999,Female,Has relevent experience,no_enrollment,Graduate,STEM,18,100-499,Pvt Ltd,>4,43
+65,0.807,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,Missing,Missing,>4,134
+66,0.624,Male,No relevent experience,no_enrollment,Graduate,Arts,5,<10,Early Stage Startup,never,18
+67,0.897,Male,No relevent experience,Part time course,Graduate,STEM,8,Missing,Public Sector,1,124
+68,0.682,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,Missing,Missing,3,80
+69,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,No company,No company,never,9
+70,0.55,Male,Has relevent experience,Full time course,Graduate,STEM,<1,50-99,Pvt Ltd,1,188
+71,0.74,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,<10,Pvt Ltd,2,182
+72,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,4,282
+73,0.92,Unspecified,No relevent experience,Full time course,High School,No Major,1,No company,No company,never,84
+74,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,<10,Early Stage Startup,1,59
+75,0.55,Male,Has relevent experience,Part time course,Graduate,STEM,3,10-49,Pvt Ltd,1,116
+76,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,50-99,Pvt Ltd,>4,34
+77,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,12,50-99,Pvt Ltd,2,64
+79,0.887,Male,No relevent experience,Full time course,Graduate,Other,15,Missing,Missing,3,77
+80,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,56
+81,0.624,Male,No relevent experience,Full time course,Masters,STEM,2,Missing,Missing,1,73
+82,0.855,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,15,100-499,Pvt Ltd,>4,30
+83,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,500-999,Pvt Ltd,>4,66
+84,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,10
+85,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,3,100-499,Pvt Ltd,1,100
+87,0.8270000000000001,Male,Has relevent experience,Full time course,Masters,STEM,10,10000+,Pvt Ltd,4,29
+88,0.92,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,3,8
+89,0.745,Unspecified,No relevent experience,Full time course,High School,No Major,1,No company,No company,never,77
+90,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,28
+91,0.682,Male,Has relevent experience,no_enrollment,Masters,STEM,19,1000-4999,Missing,4,99
+92,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,41
+93,0.5579999999999999,Male,Has relevent experience,Part time course,Masters,STEM,3,Missing,Missing,2,258
+94,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,3,144
+95,0.939,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,3,328
+96,0.92,Female,Has relevent experience,no_enrollment,Graduate,Humanities,4,Missing,Missing,1,47
+97,0.624,Male,No relevent experience,Full time course,High School,No Major,3,<10,Early Stage Startup,2,36
+98,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,10000+,NGO,1,30
+99,0.92,Unspecified,Has relevent experience,Part time course,Masters,STEM,16,10000+,Pvt Ltd,>4,36
+100,0.92,Unspecified,No relevent experience,no_enrollment,High School,No Major,3,Missing,Missing,>4,41
+101,0.487,Male,No relevent experience,Full time course,Graduate,STEM,1,10-49,Pvt Ltd,never,64
+102,0.91,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,16,50-99,Pvt Ltd,1,55
+103,0.91,Male,Has relevent experience,Part time course,Graduate,STEM,>20,10000+,Pvt Ltd,2,12
+104,0.848,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,never,4
+105,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,11,100-499,Pvt Ltd,2,23
+106,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,never,32
+107,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,10
+108,0.884,Male,No relevent experience,Part time course,Graduate,STEM,<1,Missing,Missing,>4,18
+109,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,50-99,Missing,1,43
+110,0.855,Male,Has relevent experience,no_enrollment,Masters,STEM,15,50-99,Pvt Ltd,never,5
+111,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,1,8
+112,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,34
+113,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,Missing,Missing,1,58
+114,0.92,Unspecified,Has relevent experience,Full time course,Graduate,STEM,5,10000+,Other,never,48
+115,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,7,50-99,Pvt Ltd,>4,58
+116,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,1000-4999,Pvt Ltd,1,7
+117,0.74,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,10,1000-4999,Public Sector,>4,84
+118,0.624,Male,No relevent experience,Full time course,Graduate,STEM,7,Missing,Missing,1,12
+119,0.92,Male,No relevent experience,no_enrollment,High School,No Major,1,No company,No company,never,22
+120,0.915,Unspecified,No relevent experience,Full time course,High School,No Major,6,Missing,Pvt Ltd,never,44
+121,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,42
+122,0.913,Male,Has relevent experience,no_enrollment,High School,No Major,3,100-499,Pvt Ltd,1,48
+123,0.884,Male,No relevent experience,no_enrollment,Masters,STEM,2,1000-4999,Pvt Ltd,1,196
+124,0.878,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,80
+126,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,<1,<10,Pvt Ltd,1,48
+127,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,95
+128,0.91,Female,No relevent experience,no_enrollment,Phd,STEM,19,1000-4999,NGO,1,64
+130,0.91,Unspecified,No relevent experience,no_enrollment,High School,No Major,<1,Missing,Missing,1,64
+131,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,100-499,Pvt Ltd,2,54
+132,0.754,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,1,12
+133,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,>4,19
+134,0.856,Female,Has relevent experience,Part time course,Graduate,STEM,7,500-999,Pvt Ltd,1,145
+135,0.913,Male,Has relevent experience,no_enrollment,Graduate,No Major,11,100-499,Pvt Ltd,>4,50
+136,0.6659999999999999,Unspecified,Has relevent experience,no_enrollment,High School,No Major,2,No company,No company,never,135
+137,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,<1,Missing,Missing,1,3
+138,0.91,Male,No relevent experience,no_enrollment,Phd,Humanities,>20,Missing,Missing,>4,27
+139,0.92,Male,No relevent experience,Full time course,Graduate,STEM,<1,Missing,Missing,1,24
+140,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,5,10-49,Funded Startup,1,120
+141,0.887,Male,Has relevent experience,Part time course,Graduate,STEM,15,Missing,Missing,1,61
+142,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,Missing,Missing,1,23
+143,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,4
+144,0.926,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,>4,139
+145,0.897,Male,Has relevent experience,Part time course,Masters,STEM,3,10000+,Pvt Ltd,1,34
+146,0.91,Male,Has relevent experience,no_enrollment,Masters,Humanities,7,Missing,Pvt Ltd,4,21
+147,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,100-499,Pvt Ltd,4,10
+148,0.698,Unspecified,Has relevent experience,Part time course,Masters,STEM,>20,Missing,Missing,>4,15
+150,0.8270000000000001,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Funded Startup,>4,154
+151,0.698,Male,No relevent experience,Full time course,Graduate,STEM,<1,No company,No company,never,8
+152,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,84
+153,0.92,Male,No relevent experience,Full time course,Masters,STEM,16,No company,No company,never,96
+154,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,4,56
+155,0.6890000000000001,Male,Has relevent experience,no_enrollment,High School,No Major,6,100-499,Pvt Ltd,1,270
+156,0.903,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,Missing,Missing,1,76
+157,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,12,100-499,Funded Startup,1,48
+158,0.939,Male,No relevent experience,no_enrollment,Phd,STEM,>20,5000-9999,Pvt Ltd,2,9
+159,0.923,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,3,10-49,Public Sector,never,27
+160,0.903,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,13,Missing,Missing,3,40
+161,0.698,Male,No relevent experience,Full time course,High School,No Major,1,No company,No company,never,72
+162,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,5000-9999,Pvt Ltd,1,66
+163,0.91,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,1,22
+164,0.91,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,50-99,Funded Startup,3,156
+165,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,5,10000+,Pvt Ltd,>4,95
+166,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,35
+167,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,500-999,Pvt Ltd,1,102
+168,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Missing,>4,51
+169,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,2,50-99,Pvt Ltd,1,88
+170,0.579,Male,Has relevent experience,Part time course,Masters,STEM,3,50-99,Pvt Ltd,1,13
+171,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,>4,20
+172,0.926,Unspecified,No relevent experience,no_enrollment,Phd,STEM,15,10000+,Pvt Ltd,1,91
+173,0.74,Male,Has relevent experience,Full time course,Graduate,STEM,6,10-49,Pvt Ltd,4,34
+174,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,1,100-499,Public Sector,1,20
+175,0.764,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,10-49,Pvt Ltd,1,77
+176,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,9,10-49,Pvt Ltd,>4,101
+177,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,>20,100-499,Pvt Ltd,1,178
+179,0.556,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Missing,3,200
+180,0.624,Male,No relevent experience,no_enrollment,Masters,STEM,4,100-499,Pvt Ltd,1,15
+181,0.624,Male,No relevent experience,Full time course,High School,No Major,2,No company,No company,never,72
+182,0.921,Male,Has relevent experience,Full time course,Graduate,STEM,7,100-499,Pvt Ltd,1,8
+183,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,2,76
+184,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,Missing,Missing,1,9
+185,0.754,Unspecified,Has relevent experience,Part time course,Graduate,STEM,6,10-49,Pvt Ltd,3,68
+186,0.926,Male,No relevent experience,no_enrollment,High School,No Major,5,Missing,Pvt Ltd,never,70
+187,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,51
+188,0.92,Male,No relevent experience,no_enrollment,Graduate,No Major,3,No company,No company,never,4
+189,0.926,Unspecified,No relevent experience,no_enrollment,High School,No Major,11,100-499,Pvt Ltd,>4,16
+190,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,<1,100-499,Pvt Ltd,1,9
+191,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-499,Pvt Ltd,2,24
+192,0.6890000000000001,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,Missing,Missing,2,152
+193,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Funded Startup,3,72
+194,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,Missing,Missing,3,88
+196,0.92,Male,No relevent experience,Full time course,High School,No Major,2,Missing,Missing,1,48
+197,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,1,100-499,Pvt Ltd,never,128
+198,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,14,Missing,Missing,1,59
+199,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,<10,Pvt Ltd,1,138
+201,0.55,Male,Has relevent experience,Full time course,Graduate,STEM,4,50-99,Missing,1,125
+202,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,6,50-99,Public Sector,2,7
+204,0.624,Unspecified,No relevent experience,Full time course,High School,No Major,2,Missing,Pvt Ltd,never,12
+205,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,52
+206,0.926,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,No company,No company,never,24
+207,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,100-499,Pvt Ltd,>4,67
+208,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,1,118
+209,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,Missing,Missing,2,29
+210,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,50-99,Pvt Ltd,>4,18
+211,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,9
+212,0.897,Male,Has relevent experience,no_enrollment,Phd,STEM,14,<10,Early Stage Startup,1,7
+213,0.624,Male,Has relevent experience,no_enrollment,High School,No Major,10,No company,No company,never,73
+214,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,100-499,Pvt Ltd,2,65
+216,0.925,Unspecified,Has relevent experience,no_enrollment,High School,No Major,8,Missing,Missing,1,33
+217,0.926,Male,Has relevent experience,no_enrollment,Graduate,Humanities,2,<10,Early Stage Startup,1,56
+218,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,4,10-49,Pvt Ltd,1,18
+219,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,>4,272
+220,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,2,29
+221,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,100-499,Pvt Ltd,never,100
+223,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,6,10000+,Pvt Ltd,1,13
+224,0.92,Female,No relevent experience,Part time course,Graduate,Other,3,5000-9999,Other,1,56
+227,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,200
+228,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,5000-9999,Pvt Ltd,1,28
+229,0.925,Female,Has relevent experience,no_enrollment,Graduate,Humanities,3,<10,Pvt Ltd,2,12
+230,0.866,Unspecified,No relevent experience,no_enrollment,Masters,STEM,12,Missing,Pvt Ltd,never,26
+231,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,<10,Early Stage Startup,1,174
+232,0.92,Unspecified,Has relevent experience,no_enrollment,Primary School,No Major,7,100-499,Pvt Ltd,1,39
+233,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,500-999,Pvt Ltd,4,71
+234,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,Pvt Ltd,never,114
+235,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,Missing,Missing,2,12
+236,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,17,<10,Pvt Ltd,2,56
+237,0.6890000000000001,Male,Has relevent experience,Full time course,Graduate,STEM,4,1000-4999,Pvt Ltd,2,46
+238,0.91,Male,Has relevent experience,Full time course,Masters,STEM,7,Missing,Missing,1,24
+239,0.8270000000000001,Unspecified,Has relevent experience,Full time course,High School,No Major,4,100-499,Pvt Ltd,2,152
+240,0.856,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,<10,Funded Startup,1,20
+241,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,6,10000+,Pvt Ltd,never,202
+243,0.698,Male,Has relevent experience,Part time course,High School,No Major,2,50-99,NGO,2,78
+244,0.913,Male,Has relevent experience,no_enrollment,Masters,STEM,20,1000-4999,Pvt Ltd,never,60
+245,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10-49,Pvt Ltd,3,20
+246,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,Missing,Missing,2,82
+247,0.698,Other,Has relevent experience,no_enrollment,Graduate,STEM,9,10000+,Public Sector,3,194
+248,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,never,248
+249,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,68
+250,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,36
+251,0.903,Male,Has relevent experience,no_enrollment,Phd,STEM,14,100-499,Pvt Ltd,>4,61
+252,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Funded Startup,2,66
+253,0.767,Unspecified,Has relevent experience,Full time course,Graduate,STEM,6,10-49,Pvt Ltd,1,119
+254,0.6659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,10-49,Funded Startup,1,78
+255,0.893,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,47
+256,0.92,Other,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,174
+257,0.91,Female,Has relevent experience,no_enrollment,Graduate,STEM,19,10-49,Pvt Ltd,>4,85
+258,0.579,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,>4,86
+259,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,7,10000+,Pvt Ltd,1,20
+261,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,5,Missing,Missing,2,212
+262,0.698,Unspecified,Has relevent experience,no_enrollment,High School,No Major,11,<10,Pvt Ltd,2,77
+263,0.794,Male,Has relevent experience,no_enrollment,Masters,STEM,10,100-499,Pvt Ltd,2,85
+264,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,500-999,NGO,1,57
+265,0.92,Male,Has relevent experience,no_enrollment,Graduate,Arts,13,50-99,Pvt Ltd,>4,51
+266,0.518,Male,No relevent experience,Full time course,High School,No Major,2,Missing,Pvt Ltd,never,28
+267,0.5579999999999999,Male,Has relevent experience,no_enrollment,High School,No Major,3,No company,No company,never,14
+269,0.923,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,20,100-499,Funded Startup,1,51
+270,0.866,Male,Has relevent experience,no_enrollment,Masters,STEM,10,100-499,Missing,1,32
+271,0.624,Female,No relevent experience,Full time course,High School,No Major,2,10000+,Pvt Ltd,never,40
+272,0.527,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Pvt Ltd,1,4
+273,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,3,54
+274,0.898,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,500-999,Public Sector,1,50
+275,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Pvt Ltd,4,18
+276,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,Missing,Missing,1,200
+277,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,13,100-499,Pvt Ltd,1,107
+278,0.624,Male,No relevent experience,no_enrollment,Masters,STEM,6,100-499,Pvt Ltd,>4,200
+279,0.855,Male,Has relevent experience,no_enrollment,High School,No Major,3,100-499,Funded Startup,1,5
+280,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,<10,Public Sector,>4,21
+281,0.855,Male,No relevent experience,no_enrollment,High School,No Major,6,Missing,Pvt Ltd,never,138
+282,0.92,Male,Has relevent experience,no_enrollment,Graduate,Arts,17,50-99,Pvt Ltd,3,103
+283,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,never,109
+284,0.92,Male,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,66
+285,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,never,26
+286,0.624,Female,Has relevent experience,no_enrollment,Masters,STEM,5,10000+,Pvt Ltd,1,72
+287,0.624,Female,Has relevent experience,Full time course,Graduate,STEM,5,Missing,Public Sector,1,182
+288,0.682,Male,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,40
+290,0.91,Male,Has relevent experience,Full time course,High School,No Major,3,50-99,Pvt Ltd,1,19
+292,0.899,Female,Has relevent experience,no_enrollment,Graduate,STEM,3,Missing,Missing,2,30
+293,0.802,Unspecified,Has relevent experience,Part time course,Graduate,STEM,6,Missing,Missing,2,25
+294,0.895,Unspecified,No relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,2,62
+295,0.754,Unspecified,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,89
+296,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,12,50-99,Pvt Ltd,3,26
+297,0.804,Male,Has relevent experience,Part time course,Graduate,STEM,>20,Missing,Missing,1,24
+298,0.804,Male,Has relevent experience,no_enrollment,Graduate,Humanities,3,<10,Pvt Ltd,1,23
+299,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,15
+300,0.7759999999999999,Male,No relevent experience,Full time course,Graduate,STEM,8,Missing,Missing,2,31
+301,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Missing,never,27
+302,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,112
+304,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,50-99,Pvt Ltd,1,56
+306,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,167
+307,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,3,10-49,Funded Startup,1,67
+308,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Funded Startup,1,45
+309,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,200
+310,0.754,Male,Has relevent experience,no_enrollment,Masters,STEM,10,100-499,Funded Startup,1,106
+311,0.92,Male,No relevent experience,Full time course,Graduate,STEM,8,10000+,Pvt Ltd,1,92
+312,0.92,Male,No relevent experience,Full time course,High School,No Major,8,500-999,NGO,1,4
+313,0.55,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,<1,No company,No company,never,81
+314,0.91,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,Missing,Missing,1,23
+316,0.579,Male,No relevent experience,no_enrollment,Graduate,Other,2,10-49,NGO,1,163
+317,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,100
+318,0.91,Male,No relevent experience,Full time course,Graduate,STEM,3,Missing,Pvt Ltd,1,27
+319,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,1000-4999,Missing,2,11
+320,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,1,108
+321,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,17,Missing,Missing,>4,39
+322,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,2,77
+323,0.926,Male,Has relevent experience,Full time course,Masters,STEM,5,1000-4999,Public Sector,1,90
+324,0.55,Unspecified,No relevent experience,Full time course,High School,No Major,1,Missing,Missing,1,48
+325,0.6890000000000001,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,1,35
+326,0.92,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,1,Missing,Pvt Ltd,never,15
+327,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,18,50-99,Pvt Ltd,>4,28
+328,0.698,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,15,Missing,Pvt Ltd,1,42
+329,0.92,Male,No relevent experience,no_enrollment,Masters,STEM,15,Missing,Pvt Ltd,1,55
+330,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,19,100-499,Missing,1,31
+332,0.925,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,1,41
+334,0.682,Female,No relevent experience,no_enrollment,Graduate,STEM,3,100-499,NGO,1,83
+335,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,3,100-499,Pvt Ltd,1,54
+336,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,1,13
+337,0.926,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,Missing,Missing,4,322
+338,0.903,Male,No relevent experience,no_enrollment,Phd,STEM,2,50-99,Public Sector,1,166
+339,0.92,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,7,500-999,Pvt Ltd,2,47
+340,0.804,Male,No relevent experience,no_enrollment,Graduate,STEM,14,100-499,Pvt Ltd,2,15
+341,0.624,Male,No relevent experience,Full time course,High School,No Major,1,No company,No company,never,148
+342,0.92,Male,Has relevent experience,Full time course,Graduate,Business Degree,>20,10-49,Pvt Ltd,3,7
+343,0.624,Male,No relevent experience,Full time course,Graduate,STEM,3,10000+,Pvt Ltd,1,22
+344,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,1,168
+345,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,6,1000-4999,Pvt Ltd,1,21
+346,0.897,Male,Has relevent experience,no_enrollment,Masters,No Major,8,50-99,Pvt Ltd,1,13
+347,0.926,Male,Has relevent experience,Part time course,High School,No Major,6,1000-4999,Pvt Ltd,1,104
+348,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Funded Startup,>4,248
+349,0.738,Unspecified,No relevent experience,Full time course,Graduate,Other,13,Missing,Missing,1,234
+350,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,10
+351,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,7,100-499,NGO,2,90
+352,0.624,Unspecified,No relevent experience,no_enrollment,Masters,STEM,2,100-499,Pvt Ltd,2,74
+353,0.884,Other,No relevent experience,Full time course,Graduate,STEM,2,Missing,Missing,1,68
+354,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,10-49,Pvt Ltd,>4,144
+355,0.92,Unspecified,No relevent experience,Part time course,Graduate,STEM,2,Missing,Missing,1,29
+356,0.913,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,29
+357,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,Business Degree,1,50-99,Pvt Ltd,1,12
+358,0.74,Male,Has relevent experience,no_enrollment,Masters,STEM,11,10-49,Pvt Ltd,2,127
+359,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,9,1000-4999,Pvt Ltd,1,16
+361,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,20
+362,0.738,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,50-99,Pvt Ltd,2,113
+363,0.897,Male,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,332
+364,0.926,Female,Has relevent experience,no_enrollment,High School,No Major,4,100-499,Pvt Ltd,never,26
+365,0.887,Male,No relevent experience,no_enrollment,Masters,STEM,9,<10,Missing,>4,20
+366,0.698,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,1,No company,No company,never,13
+367,0.887,Male,No relevent experience,no_enrollment,Primary School,No Major,1,No company,No company,never,288
+368,0.624,Unspecified,Has relevent experience,Part time course,Masters,STEM,6,10000+,Pvt Ltd,1,35
+369,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,72
+370,0.899,Male,Has relevent experience,no_enrollment,High School,No Major,>20,Missing,Missing,1,74
+371,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,42
+372,0.926,Male,No relevent experience,no_enrollment,Graduate,Humanities,20,Missing,Missing,4,40
+373,0.926,Unspecified,Has relevent experience,Part time course,Graduate,STEM,12,10-49,NGO,1,2
+374,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,Missing,Missing,4,170
+375,0.92,Unspecified,Has relevent experience,Part time course,Masters,STEM,2,10000+,NGO,1,41
+376,0.899,Female,Has relevent experience,no_enrollment,Graduate,STEM,16,50-99,NGO,1,22
+377,0.848,Unspecified,No relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,8
+378,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,1,50
+379,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Public Sector,>4,101
+380,0.91,Male,No relevent experience,no_enrollment,High School,No Major,<1,No company,No company,never,63
+381,0.754,Male,Has relevent experience,Part time course,Graduate,STEM,>20,10-49,Pvt Ltd,1,20
+382,0.512,Male,Has relevent experience,no_enrollment,Masters,STEM,9,10-49,Pvt Ltd,1,53
+384,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,50-99,Pvt Ltd,>4,76
+385,0.624,Female,Has relevent experience,Full time course,Graduate,STEM,1,50-99,Pvt Ltd,never,17
+386,0.924,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,NGO,1,7
+387,0.802,Male,Has relevent experience,Part time course,Masters,STEM,9,500-999,Pvt Ltd,4,61
+388,0.624,Male,No relevent experience,no_enrollment,Masters,STEM,3,5000-9999,Pvt Ltd,1,8
+389,0.91,Male,Has relevent experience,no_enrollment,Graduate,Humanities,13,Missing,Missing,1,68
+390,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,2,15
+391,0.897,Male,Has relevent experience,no_enrollment,Graduate,No Major,14,<10,Pvt Ltd,>4,22
+392,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,>20,50-99,Pvt Ltd,>4,23
+393,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Funded Startup,2,87
+394,0.913,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10-49,Pvt Ltd,>4,40
+395,0.899,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,4,14
+396,0.939,Male,Has relevent experience,no_enrollment,Graduate,Other,8,500-999,Pvt Ltd,2,128
+397,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,10,50-99,Pvt Ltd,1,25
+398,0.913,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,3,220
+399,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,2,33
+400,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,3,1000-4999,Pvt Ltd,2,17
+401,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,1000-4999,Pvt Ltd,2,26
+402,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,50-99,Funded Startup,1,4
+403,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,9,10-49,Early Stage Startup,1,29
+404,0.8959999999999999,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Public Sector,1,11
+405,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10-49,Missing,2,23
+406,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,Missing,Missing,1,13
+407,0.893,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,>4,80
+408,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,>4,250
+409,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,20,10-49,Early Stage Startup,1,56
+410,0.789,Female,No relevent experience,no_enrollment,Graduate,STEM,2,No company,No company,never,82
+411,0.92,Male,Has relevent experience,no_enrollment,Primary School,No Major,>20,100-499,Pvt Ltd,1,66
+412,0.624,Male,Has relevent experience,Part time course,Graduate,STEM,6,No company,No company,never,16
+414,0.926,Male,No relevent experience,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,>4,63
+415,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,500-999,Pvt Ltd,2,81
+416,0.92,Female,Has relevent experience,no_enrollment,Graduate,Humanities,>20,Missing,Missing,>4,22
+417,0.527,Male,No relevent experience,Full time course,High School,No Major,<1,No company,No company,never,25
+418,0.83,Male,Has relevent experience,no_enrollment,Phd,Business Degree,20,50-99,Pvt Ltd,1,57
+419,0.92,Male,No relevent experience,Full time course,Masters,STEM,14,No company,No company,never,136
+420,0.743,Male,Has relevent experience,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,4,72
+421,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,Pvt Ltd,2,28
+422,0.897,Male,No relevent experience,Full time course,Graduate,STEM,7,Missing,Missing,1,32
+423,0.8270000000000001,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,5000-9999,Pvt Ltd,2,30
+424,0.92,Male,No relevent experience,Full time course,Graduate,STEM,4,Missing,Pvt Ltd,1,40
+425,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,1000-4999,NGO,3,35
+426,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,>4,160
+427,0.91,Male,Has relevent experience,no_enrollment,Masters,Business Degree,>20,1000-4999,Pvt Ltd,>4,14
+428,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,1,55
+429,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,68
+430,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,2,10000+,Pvt Ltd,never,112
+431,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,25
+432,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,Missing,Missing,1,58
+433,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Pvt Ltd,1,196
+434,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,18
+435,0.624,Male,Has relevent experience,no_enrollment,Masters,Business Degree,3,<10,Pvt Ltd,1,66
+436,0.55,Unspecified,No relevent experience,Part time course,Graduate,STEM,1,Missing,Missing,1,10
+437,0.903,Other,Has relevent experience,no_enrollment,Graduate,Humanities,3,<10,Pvt Ltd,1,33
+438,0.893,Male,Has relevent experience,Full time course,Masters,STEM,10,1000-4999,Public Sector,4,42
+439,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,10-49,Missing,>4,73
+440,0.855,Unspecified,Has relevent experience,Part time course,Graduate,STEM,9,100-499,Pvt Ltd,1,139
+441,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,No Major,15,Missing,Missing,>4,20
+442,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,2,43
+443,0.743,Male,No relevent experience,Full time course,Graduate,STEM,5,100-499,Pvt Ltd,never,102
+444,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,10000+,Pvt Ltd,1,65
+445,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,2,226
+446,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,1,53
+447,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,4,84
+448,0.878,Male,No relevent experience,no_enrollment,Graduate,Humanities,3,10000+,Pvt Ltd,1,24
+449,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,5,10000+,Pvt Ltd,2,47
+450,0.624,Male,No relevent experience,Full time course,Graduate,STEM,5,No company,No company,never,141
+451,0.802,Male,No relevent experience,no_enrollment,Graduate,STEM,3,<10,Pvt Ltd,2,29
+452,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Pvt Ltd,2,7
+453,0.6659999999999999,Male,No relevent experience,no_enrollment,Graduate,Other,>20,Missing,Missing,1,105
+454,0.6659999999999999,Other,No relevent experience,Full time course,Graduate,STEM,9,Missing,Pvt Ltd,never,16
+455,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,2,<10,Pvt Ltd,1,5
+456,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,47
+457,0.762,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,1,104
+458,0.92,Female,Has relevent experience,Full time course,Masters,STEM,10,50-99,Public Sector,2,40
+459,0.527,Male,Has relevent experience,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,1,29
+460,0.89,Unspecified,No relevent experience,Full time course,High School,No Major,8,Missing,Missing,3,57
+461,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,1,24
+462,0.843,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,NGO,1,94
+463,0.91,Female,Has relevent experience,no_enrollment,Graduate,STEM,8,1000-4999,Pvt Ltd,>4,33
+464,0.897,Male,No relevent experience,no_enrollment,Masters,STEM,10,100-499,NGO,>4,26
+465,0.624,Unspecified,Has relevent experience,Full time course,Masters,STEM,1,<10,Missing,1,14
+466,0.855,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,14,Missing,Missing,2,36
+467,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,NGO,1,190
+468,0.91,Male,Has relevent experience,Full time course,Masters,STEM,>20,10000+,Pvt Ltd,1,39
+469,0.855,Male,No relevent experience,no_enrollment,Masters,STEM,14,Missing,Missing,2,150
+470,0.91,Male,No relevent experience,Full time course,Masters,STEM,14,50-99,Public Sector,1,116
+471,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,4,10000+,Pvt Ltd,4,48
+472,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,<1,Missing,Missing,2,104
+473,0.743,Male,No relevent experience,Full time course,High School,No Major,6,<10,Missing,1,33
+474,0.624,Male,No relevent experience,no_enrollment,Masters,STEM,2,50-99,Pvt Ltd,1,80
+475,0.926,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,Missing,Missing,>4,158
+476,0.89,Male,Has relevent experience,Full time course,High School,No Major,9,<10,Pvt Ltd,2,54
+478,0.725,Female,Has relevent experience,Full time course,Masters,STEM,9,50-99,Missing,never,100
+479,0.926,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,never,37
+480,0.847,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,1,99
+481,0.754,Female,No relevent experience,Part time course,Graduate,STEM,7,Missing,Missing,1,206
+482,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Funded Startup,1,4
+483,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,>20,100-499,Pvt Ltd,>4,266
+484,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,4,24
+485,0.926,Male,No relevent experience,no_enrollment,Masters,Humanities,18,100-499,Pvt Ltd,>4,19
+486,0.887,Unspecified,No relevent experience,Full time course,Phd,STEM,>20,500-999,Public Sector,>4,106
+487,0.926,Male,No relevent experience,Full time course,High School,No Major,6,No company,No company,never,14
+488,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,36
+489,0.926,Male,Has relevent experience,Part time course,Graduate,Humanities,>20,Missing,Missing,>4,72
+490,0.624,Unspecified,No relevent experience,no_enrollment,Masters,STEM,11,<10,Public Sector,2,50
+491,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10-49,Pvt Ltd,>4,17
+492,0.897,Male,Has relevent experience,Full time course,Masters,STEM,<1,5000-9999,Missing,4,15
+493,0.878,Male,Has relevent experience,no_enrollment,Masters,STEM,8,10000+,Pvt Ltd,1,334
+494,0.624,Female,Has relevent experience,Full time course,Graduate,STEM,<1,50-99,Pvt Ltd,1,33
+495,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Early Stage Startup,2,92
+496,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,6,10000+,Pvt Ltd,1,250
+497,0.897,Male,Has relevent experience,Full time course,Masters,STEM,16,Missing,Missing,1,33
+498,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,3,304
+499,0.92,Male,Has relevent experience,Part time course,Graduate,Business Degree,5,50-99,Pvt Ltd,4,64
+500,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,1,64
+501,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,100-499,Pvt Ltd,>4,39
+502,0.926,Male,No relevent experience,Full time course,High School,No Major,8,Missing,Public Sector,1,81
+503,0.925,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,Missing,Pvt Ltd,1,67
+504,0.527,Male,No relevent experience,no_enrollment,Masters,STEM,<1,Missing,Missing,1,30
+505,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,13,<10,Pvt Ltd,1,152
+506,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,12,50-99,Pvt Ltd,1,102
+507,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,1,10-49,Funded Startup,1,119
+508,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,>4,7
+509,0.926,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,14,50-99,Pvt Ltd,1,172
+510,0.624,Unspecified,No relevent experience,Full time course,Masters,STEM,2,5000-9999,Pvt Ltd,1,284
+511,0.926,Male,No relevent experience,Full time course,High School,No Major,3,No company,No company,never,36
+512,0.91,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,>4,89
+513,0.92,Male,No relevent experience,Full time course,Graduate,STEM,9,Missing,Missing,4,107
+514,0.698,Male,Has relevent experience,Part time course,Masters,STEM,13,50-99,Funded Startup,1,10
+515,0.794,Male,No relevent experience,no_enrollment,Masters,Business Degree,<1,100-499,Pvt Ltd,2,54
+516,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,4,5000-9999,Public Sector,2,46
+517,0.847,Male,No relevent experience,no_enrollment,Primary School,No Major,3,No company,No company,never,43
+518,0.6659999999999999,Female,Has relevent experience,no_enrollment,Graduate,Other,3,10-49,Pvt Ltd,2,44
+519,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,100-499,Pvt Ltd,2,57
+520,0.926,Male,Has relevent experience,Full time course,High School,No Major,17,500-999,Pvt Ltd,>4,180
+521,0.887,Male,No relevent experience,no_enrollment,Graduate,Humanities,1,Missing,Missing,1,15
+522,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,1,50
+523,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,1,33
+524,0.795,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,5000-9999,Pvt Ltd,1,116
+525,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Missing,2,4
+526,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,10-49,Pvt Ltd,1,124
+527,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Missing,1,20
+528,0.92,Male,No relevent experience,Full time course,Graduate,STEM,8,Missing,Missing,2,96
+529,0.743,Male,Has relevent experience,no_enrollment,Masters,STEM,3,500-999,Pvt Ltd,1,42
+530,0.926,Male,No relevent experience,no_enrollment,Masters,Humanities,9,50-99,NGO,1,34
+531,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,>4,14
+532,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,Missing,Missing,>4,42
+535,0.698,Male,No relevent experience,no_enrollment,Graduate,STEM,6,Missing,Pvt Ltd,1,21
+536,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,500-999,Pvt Ltd,1,52
+537,0.7659999999999999,Male,No relevent experience,Full time course,Graduate,STEM,10,No company,No company,never,99
+538,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,9,Missing,Missing,1,18
+539,0.848,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,Missing,Missing,2,109
+540,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,5000-9999,Public Sector,1,22
+541,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,>20,10-49,Pvt Ltd,1,56
+542,0.8959999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,4,170
+543,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Missing,2,24
+544,0.926,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,Pvt Ltd,3,44
+545,0.804,Male,No relevent experience,no_enrollment,Masters,STEM,16,Missing,Missing,2,66
+546,0.878,Male,Has relevent experience,no_enrollment,Graduate,STEM,1,Missing,Missing,1,70
+547,0.8959999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,7,500-999,Pvt Ltd,1,40
+548,0.698,Male,No relevent experience,no_enrollment,Primary School,No Major,2,No company,No company,never,88
+549,0.8270000000000001,Unspecified,No relevent experience,no_enrollment,Graduate,Humanities,<1,No company,No company,never,44
+550,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,112
+551,0.939,Male,Has relevent experience,Part time course,High School,No Major,6,10000+,Missing,1,144
+552,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,1,41
+553,0.624,Male,Has relevent experience,Part time course,Graduate,STEM,5,1000-4999,Pvt Ltd,3,52
+554,0.802,Male,Has relevent experience,no_enrollment,Graduate,No Major,12,1000-4999,Pvt Ltd,>4,33
+555,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,2,<10,Early Stage Startup,1,56
+556,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,2,100-499,Pvt Ltd,1,84
+558,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,11,Missing,Missing,1,51
+559,0.624,Male,Has relevent experience,Full time course,Masters,STEM,12,10000+,Pvt Ltd,never,108
+560,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,1,44
+561,0.767,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,100-499,Pvt Ltd,>4,24
+562,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,10-49,Pvt Ltd,2,6
+563,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,100-499,Pvt Ltd,1,25
+564,0.836,Male,No relevent experience,no_enrollment,Masters,STEM,9,50-99,Funded Startup,1,102
+565,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,8
+566,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,8,10-49,NGO,never,26
+567,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,500-999,Missing,2,50
+568,0.91,Unspecified,No relevent experience,Full time course,Graduate,STEM,7,No company,No company,never,31
+569,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,3,21
+570,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,1000-4999,Pvt Ltd,1,54
+571,0.743,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,14,Missing,Missing,1,26
+572,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,10
+573,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Funded Startup,1,167
+574,0.6890000000000001,Male,No relevent experience,Full time course,Primary School,No Major,4,<10,Early Stage Startup,1,70
+575,0.92,Unspecified,No relevent experience,Full time course,Graduate,STEM,<1,Missing,Missing,>4,41
+576,0.6890000000000001,Male,No relevent experience,Full time course,High School,No Major,2,Missing,Missing,1,122
+577,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,29
+578,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,50-99,Pvt Ltd,3,18
+579,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,9,50-99,Pvt Ltd,2,4
+580,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,5
+581,0.5579999999999999,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Pvt Ltd,>4,12
+582,0.767,Male,Has relevent experience,Part time course,Graduate,Business Degree,14,50-99,Pvt Ltd,3,29
+583,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,2,24
+584,0.897,Male,No relevent experience,Part time course,Masters,STEM,4,10000+,Pvt Ltd,1,21
+585,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,2,138
+587,0.92,Male,No relevent experience,Full time course,Graduate,STEM,6,No company,No company,never,84
+589,0.802,Male,No relevent experience,no_enrollment,Graduate,STEM,3,10-49,Pvt Ltd,2,214
+590,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,8,Missing,Missing,2,92
+591,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,<10,Pvt Ltd,1,12
+592,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,<10,Pvt Ltd,1,111
+593,0.91,Unspecified,No relevent experience,no_enrollment,Phd,STEM,1,10000+,NGO,1,28
+594,0.855,Male,No relevent experience,Full time course,Graduate,STEM,10,Missing,Missing,1,27
+595,0.727,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,14,10-49,Pvt Ltd,4,48
+596,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,1,14
+597,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,292
+598,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,Humanities,19,100-499,Pvt Ltd,>4,40
+599,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,42
+600,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,36
+601,0.789,Male,No relevent experience,no_enrollment,Masters,STEM,20,50-99,Pvt Ltd,>4,94
+602,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,15,10000+,Pvt Ltd,>4,57
+603,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,4,500-999,Pvt Ltd,2,101
+604,0.92,Male,No relevent experience,no_enrollment,Graduate,Humanities,2,100-499,Funded Startup,2,35
+605,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,3,50-99,Missing,1,24
+606,0.91,Male,Has relevent experience,Full time course,Masters,STEM,>20,50-99,Pvt Ltd,2,130
+607,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,>4,96
+608,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10-49,Funded Startup,1,56
+609,0.624,Male,No relevent experience,Full time course,Graduate,STEM,2,10-49,Missing,1,32
+610,0.866,Male,No relevent experience,Full time course,Masters,STEM,8,Missing,Missing,4,99
+611,0.926,Male,Has relevent experience,no_enrollment,Graduate,Humanities,10,<10,Pvt Ltd,2,46
+612,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,<10,Early Stage Startup,1,50
+613,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Early Stage Startup,>4,97
+614,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,17,100-499,Pvt Ltd,1,28
+615,0.926,Male,No relevent experience,no_enrollment,High School,No Major,7,<10,Pvt Ltd,>4,132
+616,0.92,Male,No relevent experience,Full time course,Graduate,STEM,4,Missing,Pvt Ltd,never,100
+617,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,2,184
+618,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,3,1000-4999,Public Sector,2,28
+619,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,10,10000+,Public Sector,1,218
+620,0.91,Male,No relevent experience,Full time course,Masters,STEM,5,Missing,Missing,3,3
+621,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,Missing,Missing,4,29
+622,0.55,Unspecified,Has relevent experience,Full time course,Graduate,STEM,7,50-99,Pvt Ltd,>4,99
+623,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,18
+624,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,7
+625,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,1,29
+626,0.899,Male,Has relevent experience,no_enrollment,High School,No Major,4,100-499,Funded Startup,1,61
+627,0.895,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,10-49,Pvt Ltd,1,78
+628,0.949,Male,Has relevent experience,no_enrollment,Masters,STEM,15,50-99,Missing,2,102
+629,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,500-999,Pvt Ltd,1,10
+630,0.6890000000000001,Female,No relevent experience,no_enrollment,Graduate,STEM,4,50-99,Early Stage Startup,1,41
+631,0.884,Male,Has relevent experience,Part time course,Graduate,STEM,5,50-99,Pvt Ltd,2,30
+632,0.527,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,>4,38
+633,0.624,Male,No relevent experience,Full time course,Masters,STEM,3,Missing,Pvt Ltd,1,28
+634,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,2,21
+635,0.926,Female,No relevent experience,Part time course,High School,No Major,16,1000-4999,Missing,2,6
+637,0.848,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,<10,Pvt Ltd,2,31
+638,0.804,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,94
+639,0.754,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,1,18
+640,0.91,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,<10,Early Stage Startup,1,45
+641,0.855,Male,No relevent experience,Part time course,Graduate,STEM,16,Missing,Missing,>4,129
+642,0.848,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-499,Pvt Ltd,1,28
+643,0.878,Male,Has relevent experience,no_enrollment,High School,No Major,<1,10-49,Funded Startup,1,105
+644,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,11,Missing,Missing,2,58
+645,0.624,Male,No relevent experience,Full time course,Graduate,STEM,3,10-49,Early Stage Startup,1,4
+646,0.939,Male,Has relevent experience,Part time course,Phd,Arts,>20,Missing,Missing,>4,51
+647,0.91,Male,Has relevent experience,no_enrollment,Phd,Humanities,16,5000-9999,Public Sector,>4,258
+649,0.4479999999999999,Male,No relevent experience,no_enrollment,Graduate,STEM,4,Missing,Missing,2,100
+650,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,<1,100-499,Pvt Ltd,1,52
+651,0.92,Female,No relevent experience,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,4,10
+652,0.624,Male,No relevent experience,Full time course,High School,No Major,<1,No company,No company,never,113
+653,0.91,Male,No relevent experience,Full time course,Graduate,STEM,8,1000-4999,Public Sector,1,71
+654,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,1,56
+655,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,20,10000+,Public Sector,3,110
+656,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,3,1000-4999,Pvt Ltd,3,18
+657,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,4
+658,0.624,Male,No relevent experience,Full time course,High School,No Major,4,No company,No company,never,65
+659,0.92,Female,No relevent experience,Full time course,Graduate,STEM,2,<10,Public Sector,1,11
+660,0.92,Unspecified,No relevent experience,no_enrollment,High School,No Major,<1,No company,No company,never,44
+661,0.92,Unspecified,No relevent experience,no_enrollment,High School,No Major,4,5000-9999,Public Sector,2,12
+662,0.91,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,4,50-99,Funded Startup,3,83
+664,0.698,Unspecified,Has relevent experience,Full time course,Masters,STEM,11,Missing,Missing,1,220
+665,0.691,Male,Has relevent experience,no_enrollment,High School,No Major,17,50-99,Funded Startup,1,9
+666,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Public Sector,3,66
+667,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,11,No company,No company,never,43
+668,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Public Sector,2,79
+669,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,3,69
+670,0.624,Unspecified,No relevent experience,Part time course,Graduate,STEM,1,10000+,Pvt Ltd,1,80
+671,0.92,Unspecified,No relevent experience,Full time course,High School,No Major,1,500-999,Pvt Ltd,1,53
+672,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,100-499,Pvt Ltd,2,151
+673,0.4479999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,9,Missing,Missing,1,40
+674,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,10,50-99,Pvt Ltd,1,112
+675,0.843,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,Missing,Missing,2,6
+676,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,16,1000-4999,Public Sector,3,12
+677,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,1000-4999,Pvt Ltd,3,72
+678,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10-49,Pvt Ltd,>4,53
+679,0.794,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,1,73
+680,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,>4,4
+681,0.74,Male,No relevent experience,Full time course,High School,No Major,3,Missing,Missing,1,127
+682,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,1,85
+683,0.7759999999999999,Male,No relevent experience,Full time course,High School,No Major,2,<10,Missing,1,27
+684,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,5,10000+,Public Sector,>4,128
+686,0.92,Unspecified,No relevent experience,Full time course,High School,No Major,5,Missing,Missing,1,7
+687,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,11,Missing,Missing,1,40
+688,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,7,1000-4999,NGO,1,170
+689,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,9,Missing,Missing,1,72
+690,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,39
+691,0.527,Male,Has relevent experience,Part time course,Masters,STEM,16,5000-9999,Public Sector,>4,70
+692,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,3,Missing,Missing,1,12
+694,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,1000-4999,Pvt Ltd,2,25
+695,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,Public Sector,2,11
+696,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,1,36
+697,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,6,Missing,Missing,1,43
+698,0.698,Other,Has relevent experience,Part time course,High School,No Major,5,100-499,Missing,1,41
+699,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,100-499,Pvt Ltd,1,33
+700,0.926,Unspecified,No relevent experience,Full time course,High School,No Major,20,Missing,Pvt Ltd,never,76
+701,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,>20,10-49,Funded Startup,>4,58
+702,0.926,Female,Has relevent experience,no_enrollment,Primary School,No Major,>20,10-49,Pvt Ltd,>4,54
+703,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,1,100-499,Pvt Ltd,1,78
+704,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,10,Missing,Missing,3,66
+705,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,1,107
+706,0.624,Unspecified,Has relevent experience,Full time course,Masters,STEM,8,50-99,Pvt Ltd,1,35
+707,0.802,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,1,53
+708,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,3,100-499,Pvt Ltd,2,18
+709,0.855,Male,Has relevent experience,no_enrollment,Masters,STEM,16,100-499,Pvt Ltd,2,30
+710,0.92,Male,No relevent experience,Full time course,Masters,Humanities,>20,10000+,Public Sector,2,106
+711,0.92,Other,No relevent experience,no_enrollment,Graduate,STEM,<1,No company,No company,never,3
+712,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Pvt Ltd,1,55
+714,0.855,Male,Has relevent experience,no_enrollment,Masters,STEM,5,10000+,Pvt Ltd,1,40
+715,0.55,Male,Has relevent experience,no_enrollment,Masters,STEM,9,Missing,Missing,2,324
+716,0.866,Male,No relevent experience,no_enrollment,Masters,STEM,6,<10,Pvt Ltd,>4,14
+717,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,2,50-99,Pvt Ltd,never,8
+719,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,100-499,Pvt Ltd,1,47
+720,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,9
+721,0.698,Male,Has relevent experience,Full time course,Graduate,STEM,11,<10,Missing,2,37
+722,0.83,Male,No relevent experience,Full time course,Graduate,STEM,6,Missing,Missing,1,53
+723,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,110
+724,0.924,Male,No relevent experience,Full time course,High School,No Major,10,10-49,Funded Startup,3,54
+725,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10-49,Public Sector,1,182
+726,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,50-99,Pvt Ltd,1,146
+727,0.802,Male,No relevent experience,Full time course,Graduate,STEM,4,Missing,Missing,1,40
+728,0.92,Unspecified,No relevent experience,Full time course,High School,No Major,3,No company,No company,never,24
+729,0.924,Male,No relevent experience,Full time course,Masters,STEM,3,Missing,Missing,1,42
+730,0.847,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Missing,2,18
+731,0.55,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,<10,Public Sector,1,20
+732,0.698,Male,Has relevent experience,Part time course,Graduate,STEM,4,10000+,Pvt Ltd,1,48
+733,0.91,Male,Has relevent experience,Part time course,High School,No Major,4,10-49,Pvt Ltd,1,116
+734,0.738,Female,Has relevent experience,Part time course,Graduate,Other,4,50-99,Pvt Ltd,2,42
+736,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,2,22
+737,0.926,Male,No relevent experience,Full time course,Masters,STEM,8,100-499,Public Sector,1,50
+738,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,50-99,Pvt Ltd,1,25
+739,0.55,Male,No relevent experience,Full time course,High School,No Major,4,No company,No company,never,76
+740,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,43
+741,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,70
+742,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,8,Missing,Missing,2,12
+743,0.743,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Pvt Ltd,1,2
+744,0.925,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,111
+746,0.92,Male,Has relevent experience,no_enrollment,Graduate,No Major,3,50-99,Pvt Ltd,1,71
+747,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,1,83
+748,0.624,Male,No relevent experience,Part time course,High School,No Major,2,No company,No company,never,12
+749,0.926,Male,No relevent experience,no_enrollment,Phd,Humanities,10,500-999,Public Sector,>4,232
+750,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,Pvt Ltd,1,30
+751,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,10000+,Pvt Ltd,1,1
+752,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,13
+753,0.7759999999999999,Male,No relevent experience,Part time course,Graduate,STEM,6,100-499,Missing,1,29
+754,0.855,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,12,Missing,Missing,1,42
+755,0.754,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,>4,28
+756,0.764,Female,No relevent experience,no_enrollment,Graduate,STEM,4,Missing,Missing,1,14
+757,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,3,88
+758,0.913,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,22
+759,0.762,Male,Has relevent experience,Full time course,Graduate,STEM,4,10-49,Pvt Ltd,1,79
+760,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,16,100-499,Pvt Ltd,>4,20
+761,0.698,Unspecified,No relevent experience,no_enrollment,High School,No Major,4,No company,No company,never,48
+762,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,100-499,Pvt Ltd,1,78
+763,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,5,1000-4999,NGO,1,33
+764,0.91,Unspecified,Has relevent experience,Full time course,Graduate,STEM,6,Missing,Missing,1,78
+765,0.92,Male,Has relevent experience,no_enrollment,Graduate,Other,13,1000-4999,Pvt Ltd,>4,7
+766,0.92,Male,Has relevent experience,no_enrollment,Phd,Humanities,9,10000+,Pvt Ltd,1,13
+767,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,1000-4999,Public Sector,>4,25
+768,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-499,Funded Startup,1,14
+769,0.893,Male,Has relevent experience,no_enrollment,Masters,STEM,5,<10,Pvt Ltd,1,130
+770,0.743,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,2,39
+771,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,21
+772,0.836,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,12,<10,Pvt Ltd,>4,86
+773,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-499,Pvt Ltd,1,35
+774,0.91,Male,No relevent experience,Full time course,High School,No Major,4,Missing,Missing,1,10
+775,0.754,Male,No relevent experience,Part time course,Graduate,STEM,7,Missing,Public Sector,never,80
+776,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,50-99,Pvt Ltd,never,4
+777,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,100-499,Pvt Ltd,1,43
+778,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,140
+779,0.624,Male,Has relevent experience,Full time course,High School,No Major,2,Missing,Pvt Ltd,never,41
+780,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,4,102
+781,0.698,Male,Has relevent experience,no_enrollment,Masters,Business Degree,>20,1000-4999,Pvt Ltd,>4,56
+782,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,81
+783,0.738,Male,No relevent experience,no_enrollment,Graduate,STEM,10,No company,No company,never,32
+784,0.926,Male,Has relevent experience,Part time course,Masters,STEM,9,100-499,Public Sector,never,27
+785,0.83,Unspecified,Has relevent experience,Part time course,Graduate,STEM,<1,100-499,Pvt Ltd,1,280
+787,0.923,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,100-499,Pvt Ltd,>4,50
+788,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,>4,41
+789,0.789,Unspecified,No relevent experience,Full time course,Masters,STEM,<1,Missing,Missing,1,64
+790,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,3,100-499,Pvt Ltd,1,17
+791,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,never,105
+792,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,3,123
+793,0.924,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,1,100-499,Pvt Ltd,1,112
+794,0.698,Male,Has relevent experience,Full time course,Graduate,STEM,7,Missing,Missing,1,105
+795,0.6659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-499,Pvt Ltd,4,254
+796,0.738,Male,No relevent experience,Full time course,Graduate,STEM,7,Missing,Missing,2,82
+798,0.913,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,100-499,Pvt Ltd,3,33
+799,0.926,Male,No relevent experience,Full time course,Graduate,STEM,2,1000-4999,Pvt Ltd,never,35
+800,0.91,Female,No relevent experience,Full time course,Masters,STEM,6,10000+,Public Sector,4,202
+801,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Early Stage Startup,>4,42
+802,0.91,Male,No relevent experience,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,1,110
+803,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,24
+805,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,13,10-49,Pvt Ltd,2,65
+806,0.8270000000000001,Male,Has relevent experience,no_enrollment,Graduate,No Major,8,10-49,Pvt Ltd,3,150
+807,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,17,Missing,Missing,1,9
+808,0.92,Unspecified,No relevent experience,Full time course,Masters,STEM,4,Missing,Missing,1,129
+809,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,1,6
+810,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,Pvt Ltd,1,101
+811,0.893,Male,Has relevent experience,no_enrollment,Masters,STEM,15,50-99,Pvt Ltd,3,48
+813,0.55,Male,Has relevent experience,Full time course,Graduate,STEM,4,50-99,Pvt Ltd,1,50
+814,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,50-99,Pvt Ltd,4,52
+815,0.92,Unspecified,No relevent experience,no_enrollment,High School,No Major,3,Missing,Pvt Ltd,never,200
+816,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,14,100-499,Pvt Ltd,3,88
+817,0.92,Unspecified,Has relevent experience,Full time course,Graduate,STEM,>20,Missing,Pvt Ltd,>4,50
+818,0.624,Male,No relevent experience,no_enrollment,High School,No Major,<1,No company,No company,never,16
+819,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,212
+820,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,163
+821,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,5000-9999,Pvt Ltd,never,38
+822,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,2,134
+823,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,1,45
+824,0.887,Male,No relevent experience,no_enrollment,Graduate,STEM,9,Missing,Missing,1,78
+825,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,<1,No company,No company,never,33
+826,0.895,Male,Has relevent experience,no_enrollment,Masters,STEM,7,Missing,Missing,>4,33
+827,0.624,Unspecified,Has relevent experience,Full time course,Masters,STEM,3,50-99,Pvt Ltd,2,22
+828,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,2,88
+829,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,>4,75
+830,0.926,Male,No relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,1,128
+831,0.698,Male,Has relevent experience,Full time course,Graduate,STEM,16,500-999,Pvt Ltd,>4,42
+832,0.856,Male,Has relevent experience,no_enrollment,Masters,STEM,11,50-99,Pvt Ltd,1,118
+833,0.55,Male,No relevent experience,Full time course,Graduate,STEM,<1,10-49,Pvt Ltd,1,6
+834,0.624,Unspecified,No relevent experience,Full time course,High School,No Major,3,No company,No company,never,110
+835,0.926,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,9,10-49,Pvt Ltd,1,40
+836,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,12,10-49,Pvt Ltd,>4,52
+837,0.767,Male,Has relevent experience,Part time course,Graduate,STEM,6,10-49,NGO,4,31
+838,0.8270000000000001,Male,Has relevent experience,Part time course,High School,No Major,6,500-999,Pvt Ltd,2,12
+839,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-499,Funded Startup,2,42
+840,0.754,Male,Has relevent experience,no_enrollment,Masters,STEM,8,50-99,Pvt Ltd,1,146
+841,0.878,Male,No relevent experience,no_enrollment,Masters,STEM,6,Missing,Missing,2,52
+842,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,<1,100-499,Pvt Ltd,1,12
+843,0.579,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,<10,Pvt Ltd,1,140
+844,0.924,Unspecified,Has relevent experience,Full time course,Graduate,STEM,3,<10,Pvt Ltd,never,108
+845,0.698,Male,No relevent experience,no_enrollment,Masters,STEM,>20,<10,Pvt Ltd,>4,24
+846,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,1,4
+847,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Pvt Ltd,1,52
+848,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,<10,Pvt Ltd,3,72
+849,0.847,Male,No relevent experience,Full time course,Graduate,STEM,5,Missing,Missing,1,30
+850,0.91,Unspecified,Has relevent experience,Part time course,Graduate,STEM,5,Missing,Missing,1,226
+851,0.925,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,3,16
+852,0.762,Female,Has relevent experience,no_enrollment,Masters,STEM,9,100-499,Missing,2,12
+853,0.92,Unspecified,No relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,59
+854,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,4,No company,No company,never,190
+855,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,1,80
+856,0.762,Male,No relevent experience,Full time course,Graduate,STEM,8,10000+,Public Sector,1,46
+857,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,10,Missing,Missing,1,41
+858,0.926,Unspecified,No relevent experience,no_enrollment,Masters,Business Degree,2,100-499,Pvt Ltd,2,21
+859,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,>4,8
+860,0.802,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Funded Startup,3,101
+861,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,88
+862,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,25
+863,0.92,Other,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,2,4
+864,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,23
+865,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,17,10-49,Pvt Ltd,>4,34
+866,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,1,55
+867,0.836,Male,No relevent experience,Full time course,High School,No Major,2,No company,No company,never,112
+868,0.624,Male,Has relevent experience,Full time course,High School,No Major,6,1000-4999,Pvt Ltd,never,96
+869,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,3,10-49,Funded Startup,1,18
+870,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,5000-9999,Pvt Ltd,>4,35
+871,0.91,Male,No relevent experience,no_enrollment,High School,No Major,5,No company,No company,never,22
+872,0.866,Male,Has relevent experience,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,1,18
+873,0.624,Male,Has relevent experience,Part time course,Graduate,STEM,7,Missing,Missing,4,8
+874,0.92,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,16,50-99,Pvt Ltd,1,33
+875,0.887,Unspecified,No relevent experience,Full time course,Graduate,STEM,5,No company,No company,never,54
+876,0.6659999999999999,Male,No relevent experience,Full time course,Graduate,Arts,2,Missing,Missing,1,94
+877,0.91,Male,No relevent experience,no_enrollment,Primary School,No Major,2,No company,No company,never,47
+878,0.624,Male,No relevent experience,Full time course,Graduate,STEM,11,Missing,Missing,1,103
+879,0.893,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Missing,>4,5
+880,0.738,Male,No relevent experience,no_enrollment,Masters,STEM,14,Missing,Missing,>4,12
+881,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,8,<10,Pvt Ltd,never,39
+882,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,62
+883,0.754,Unspecified,Has relevent experience,Part time course,Masters,STEM,5,5000-9999,Pvt Ltd,1,22
+884,0.624,Male,No relevent experience,Part time course,High School,No Major,2,No company,No company,never,29
+885,0.92,Male,No relevent experience,no_enrollment,Masters,STEM,5,5000-9999,Other,1,184
+886,0.92,Male,No relevent experience,Full time course,High School,No Major,5,10000+,Pvt Ltd,1,20
+887,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,<10,Other,2,30
+888,0.92,Male,Has relevent experience,no_enrollment,Graduate,Other,15,50-99,Funded Startup,1,10
+889,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,100-499,Pvt Ltd,1,166
+890,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,10-49,Pvt Ltd,never,96
+891,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Funded Startup,1,15
+892,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,>4,78
+893,0.91,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,11,1000-4999,Pvt Ltd,1,43
+894,0.939,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,<10,Pvt Ltd,>4,9
+895,0.855,Male,No relevent experience,Full time course,Graduate,STEM,6,Missing,Missing,1,36
+896,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,100-499,Missing,2,264
+897,0.92,Female,Has relevent experience,no_enrollment,Graduate,Humanities,>20,Missing,Pvt Ltd,1,34
+898,0.92,Male,Has relevent experience,no_enrollment,Graduate,No Major,14,50-99,Missing,1,20
+899,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,NGO,3,37
+900,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,>4,47
+901,0.55,Unspecified,No relevent experience,no_enrollment,Masters,STEM,<1,Missing,Missing,1,12
+902,0.8270000000000001,Male,Has relevent experience,Full time course,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,23
+904,0.939,Male,No relevent experience,no_enrollment,Graduate,STEM,9,10-49,Pvt Ltd,1,77
+905,0.789,Female,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,1,246
+906,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,9,No company,No company,never,160
+907,0.897,Male,No relevent experience,no_enrollment,Masters,STEM,8,5000-9999,NGO,4,116
+908,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,<1,50-99,Pvt Ltd,never,43
+909,0.926,Unspecified,Has relevent experience,Full time course,Graduate,STEM,13,Missing,Missing,>4,44
+911,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10-49,Pvt Ltd,>4,6
+912,0.92,Male,No relevent experience,Full time course,High School,No Major,2,Missing,Missing,1,51
+913,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10-49,Pvt Ltd,>4,11
+914,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,2,7
+915,0.913,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10-49,Public Sector,>4,37
+916,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,1,116
+917,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,2,7
+918,0.493,Unspecified,Has relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,15
+919,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,Missing,Missing,3,29
+920,0.855,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,11,Missing,Missing,1,30
+921,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Pvt Ltd,2,36
+922,0.926,Male,No relevent experience,Full time course,Graduate,STEM,11,Missing,Public Sector,>4,32
+923,0.762,Male,No relevent experience,Full time course,Graduate,STEM,<1,No company,No company,never,56
+924,0.624,Female,Has relevent experience,Full time course,Graduate,STEM,5,10000+,Pvt Ltd,1,11
+925,0.7759999999999999,Male,No relevent experience,no_enrollment,Graduate,STEM,4,100-499,Pvt Ltd,2,104
+926,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,3,10000+,Pvt Ltd,2,32
+927,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Public Sector,3,12
+928,0.939,Male,Has relevent experience,Part time course,Graduate,Business Degree,6,10000+,Pvt Ltd,>4,67
+929,0.843,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,500-999,Pvt Ltd,4,4
+930,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,8,10000+,Pvt Ltd,1,15
+931,0.939,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,2,43
+932,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-499,Pvt Ltd,1,19
+933,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,<10,Early Stage Startup,1,24
+934,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,6,500-999,Funded Startup,2,10
+935,0.579,Male,Has relevent experience,Full time course,Graduate,STEM,3,10-49,Early Stage Startup,1,13
+936,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,10000+,Pvt Ltd,2,18
+937,0.836,Male,No relevent experience,no_enrollment,Masters,STEM,>20,<10,Funded Startup,2,90
+938,0.624,Unspecified,Has relevent experience,Part time course,Graduate,STEM,7,50-99,Pvt Ltd,>4,44
+939,0.855,Male,No relevent experience,Full time course,High School,No Major,2,50-99,Pvt Ltd,1,30
+940,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,7,1000-4999,Pvt Ltd,2,36
+941,0.624,Male,Has relevent experience,no_enrollment,Graduate,Other,3,No company,No company,never,160
+942,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,10-49,Early Stage Startup,1,92
+943,0.92,Male,Has relevent experience,no_enrollment,Primary School,No Major,19,50-99,Pvt Ltd,>4,34
+944,0.8959999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,7
+945,0.899,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,18,50-99,Pvt Ltd,3,60
+946,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,46
+947,0.55,Unspecified,No relevent experience,Full time course,Graduate,STEM,5,Missing,Missing,1,46
+948,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,5,10000+,Pvt Ltd,never,64
+949,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,500-999,Pvt Ltd,1,17
+950,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,1,69
+951,0.884,Unspecified,No relevent experience,no_enrollment,Graduate,Other,3,10-49,Missing,1,92
+952,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,4,78
+953,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,292
+954,0.926,Female,Has relevent experience,no_enrollment,Graduate,Humanities,9,100-499,Pvt Ltd,1,184
+955,0.92,Male,No relevent experience,no_enrollment,Graduate,Other,14,Missing,Missing,1,25
+956,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,1000-4999,Public Sector,>4,26
+957,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10-49,Early Stage Startup,2,28
+958,0.7659999999999999,Female,No relevent experience,Full time course,Graduate,STEM,3,Missing,Pvt Ltd,never,55
+959,0.897,Male,Has relevent experience,no_enrollment,Masters,Other,16,50-99,Pvt Ltd,2,40
+960,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,Missing,Missing,1,20
+961,0.92,Unspecified,Has relevent experience,no_enrollment,Phd,STEM,9,10000+,Pvt Ltd,4,29
+962,0.762,Male,No relevent experience,no_enrollment,High School,No Major,2,No company,No company,never,26
+964,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,29
+965,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,64
+966,0.897,Male,Has relevent experience,no_enrollment,High School,No Major,18,10000+,Pvt Ltd,1,43
+967,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,1000-4999,Missing,never,310
+968,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,<10,Pvt Ltd,3,20
+969,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,Business Degree,>20,<10,Pvt Ltd,2,39
+970,0.6659999999999999,Female,Has relevent experience,no_enrollment,Graduate,STEM,6,500-999,Pvt Ltd,2,21
+971,0.624,Male,Has relevent experience,no_enrollment,Graduate,Other,4,100-499,Pvt Ltd,1,24
+972,0.802,Male,Has relevent experience,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,11
+973,0.92,Unspecified,Has relevent experience,no_enrollment,Phd,STEM,>20,5000-9999,Pvt Ltd,>4,28
+974,0.698,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,7
+975,0.7659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,1,155
+976,0.624,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,15,10000+,Public Sector,>4,67
+977,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,95
+978,0.924,Male,No relevent experience,no_enrollment,Masters,Business Degree,3,Missing,Missing,1,22
+979,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,9,Missing,Missing,1,23
+980,0.804,Unspecified,No relevent experience,Part time course,Graduate,STEM,2,Missing,Missing,2,11
+981,0.802,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,100-499,Pvt Ltd,1,170
+982,0.897,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,17,Missing,Missing,1,10
+983,0.884,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,1,14
+984,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,Pvt Ltd,3,82
+985,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,6,Missing,Missing,>4,12
+988,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-499,NGO,1,14
+990,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,4,1000-4999,Public Sector,1,42
+991,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,Pvt Ltd,1,21
+992,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,No Major,>20,10-49,Pvt Ltd,>4,84
+994,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,Humanities,3,<10,Pvt Ltd,1,13
+995,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,7,1000-4999,Pvt Ltd,1,9
+996,0.939,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,11,<10,Pvt Ltd,2,53
+997,0.804,Male,No relevent experience,no_enrollment,Masters,STEM,5,500-999,Pvt Ltd,1,18
+998,0.802,Male,Has relevent experience,no_enrollment,Masters,STEM,7,Missing,Missing,1,124
+999,0.762,Male,Has relevent experience,no_enrollment,Graduate,No Major,19,10000+,Pvt Ltd,1,47
+1000,0.92,Male,No relevent experience,no_enrollment,High School,No Major,10,<10,Pvt Ltd,1,24
+1001,0.884,Male,Has relevent experience,Part time course,Masters,STEM,>20,10000+,Pvt Ltd,1,28
+1002,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,5000-9999,Pvt Ltd,>4,24
+1003,0.92,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,>20,50-99,Pvt Ltd,>4,298
+1004,0.949,Male,Has relevent experience,no_enrollment,High School,No Major,4,<10,Pvt Ltd,1,17
+1007,0.92,Unspecified,No relevent experience,Full time course,Graduate,STEM,7,Missing,Public Sector,1,38
+1009,0.698,Male,No relevent experience,no_enrollment,Primary School,No Major,3,No company,No company,never,82
+1010,0.698,Male,No relevent experience,no_enrollment,High School,No Major,2,No company,No company,never,284
+1011,0.897,Male,Has relevent experience,Part time course,Masters,STEM,10,10000+,Pvt Ltd,4,96
+1012,0.738,Male,No relevent experience,Full time course,Masters,STEM,4,No company,No company,never,28
+1013,0.743,Male,No relevent experience,no_enrollment,Graduate,Humanities,1,Missing,Missing,1,48
+1014,0.693,Female,Has relevent experience,no_enrollment,Graduate,STEM,6,1000-4999,Pvt Ltd,3,216
+1015,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,5,Missing,Missing,3,7
+1016,0.856,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,50-99,Pvt Ltd,2,85
+1017,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,10-49,Pvt Ltd,never,107
+1018,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,>4,29
+1019,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,3,12
+1020,0.897,Male,Has relevent experience,Full time course,Masters,STEM,9,100-499,Pvt Ltd,2,12
+1021,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,15,50-99,Pvt Ltd,>4,34
+1022,0.83,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10-49,Missing,2,140
+1023,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,4,51
+1024,0.7759999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,70
+1025,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,46
+1026,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,1,60
+1027,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,62
+1028,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,500-999,Public Sector,3,58
+1029,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,6,5000-9999,Public Sector,3,24
+1030,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,4,33
+1031,0.479,Male,Has relevent experience,Part time course,Graduate,STEM,2,Missing,Missing,2,26
+1032,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,85
+1033,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,5,50-99,Funded Startup,1,76
+1034,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,92
+1035,0.7759999999999999,Unspecified,No relevent experience,Full time course,Masters,STEM,6,Missing,Missing,1,90
+1036,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,<1,100-499,Pvt Ltd,2,75
+1037,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,1,103
+1038,0.92,Male,Has relevent experience,no_enrollment,Graduate,Arts,18,<10,Early Stage Startup,4,206
+1039,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,10000+,Missing,>4,13
+1040,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-499,Funded Startup,1,55
+1041,0.763,Male,No relevent experience,no_enrollment,Masters,STEM,5,100-499,Pvt Ltd,1,28
+1042,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,100-499,Missing,1,9
+1043,0.923,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Pvt Ltd,1,144
+1044,0.516,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,1000-4999,Pvt Ltd,2,100
+1045,0.926,Male,Has relevent experience,Full time course,High School,No Major,4,10000+,Pvt Ltd,1,16
+1046,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,4,10000+,Pvt Ltd,1,10
+1047,0.743,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,13,100-499,NGO,1,166
+1048,0.855,Male,Has relevent experience,Full time course,Graduate,STEM,5,50-99,Pvt Ltd,1,304
+1049,0.939,Unspecified,Has relevent experience,Part time course,Masters,STEM,6,10000+,Pvt Ltd,2,10
+1050,0.624,Male,Has relevent experience,Full time course,Masters,STEM,9,5000-9999,Pvt Ltd,never,48
+1051,0.92,Male,Has relevent experience,Part time course,Graduate,Business Degree,5,10000+,Pvt Ltd,4,17
+1052,0.764,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,<1,No company,No company,never,94
+1053,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,36
+1054,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,1,116
+1055,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,<10,Pvt Ltd,>4,85
+1056,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,2,44
+1057,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,<10,Early Stage Startup,1,79
+1058,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Missing,1,91
+1059,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,100-499,Pvt Ltd,4,2
+1061,0.92,Male,No relevent experience,no_enrollment,Phd,STEM,15,100-499,Public Sector,>4,12
+1062,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,500-999,Pvt Ltd,3,102
+1063,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,1,190
+1064,0.698,Male,No relevent experience,no_enrollment,Graduate,STEM,13,<10,Missing,2,105
+1065,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Early Stage Startup,2,7
+1066,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,<1,10-49,Pvt Ltd,3,122
+1067,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,Other,2,Missing,Pvt Ltd,2,62
+1068,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,9
+1069,0.743,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,5,No company,No company,never,84
+1070,0.855,Male,No relevent experience,no_enrollment,Primary School,No Major,7,No company,No company,never,111
+1071,0.91,Female,Has relevent experience,no_enrollment,Graduate,Humanities,3,50-99,Pvt Ltd,1,25
+1072,0.92,Male,No relevent experience,Full time course,Graduate,Other,7,Missing,Missing,4,21
+1073,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,1,20
+1074,0.794,Female,Has relevent experience,no_enrollment,Graduate,STEM,3,100-499,Public Sector,2,2
+1075,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,1000-4999,Pvt Ltd,2,22
+1076,0.926,Male,No relevent experience,no_enrollment,Graduate,STEM,8,Missing,Missing,1,7
+1077,0.855,Male,Has relevent experience,Part time course,Masters,STEM,15,100-499,Pvt Ltd,3,20
+1078,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10-49,Pvt Ltd,1,36
+1079,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,3,59
+1081,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,3,70
+1082,0.923,Male,No relevent experience,Full time course,High School,No Major,6,Missing,Missing,1,29
+1083,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,9,Missing,Missing,2,101
+1084,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,500-999,Pvt Ltd,1,75
+1085,0.92,Male,No relevent experience,no_enrollment,Phd,STEM,18,100-499,NGO,1,25
+1086,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,111
+1087,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,No Major,>20,50-99,Pvt Ltd,1,54
+1088,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,<10,Pvt Ltd,>4,260
+1089,0.579,Unspecified,No relevent experience,Full time course,Graduate,STEM,6,Missing,Pvt Ltd,never,56
+1090,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Pvt Ltd,>4,176
+1091,0.926,Unspecified,No relevent experience,Full time course,High School,No Major,8,No company,No company,never,22
+1092,0.92,Female,No relevent experience,Full time course,Phd,STEM,10,Missing,Missing,1,24
+1093,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Missing,1,16
+1094,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,16,Missing,Pvt Ltd,>4,103
+1095,0.91,Unspecified,No relevent experience,no_enrollment,Masters,Business Degree,<1,5000-9999,Pvt Ltd,1,86
+1096,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Funded Startup,3,88
+1097,0.899,Female,No relevent experience,Full time course,Graduate,STEM,3,10000+,Pvt Ltd,2,98
+1098,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,66
+1099,0.843,Male,Has relevent experience,Part time course,Graduate,STEM,>20,10-49,Funded Startup,1,76
+1100,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,10,Missing,Missing,1,136
+1101,0.92,Male,No relevent experience,no_enrollment,Masters,STEM,14,50-99,Pvt Ltd,1,332
+1102,0.624,Unspecified,Has relevent experience,no_enrollment,High School,No Major,6,Missing,Missing,1,85
+1103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,>4,12
+1104,0.925,Unspecified,No relevent experience,Full time course,High School,No Major,5,Missing,Missing,1,31
+1105,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,31
+1106,0.897,Unspecified,Has relevent experience,Part time course,Graduate,STEM,4,50-99,Missing,1,20
+1107,0.8270000000000001,Male,Has relevent experience,no_enrollment,Masters,STEM,9,100-499,Pvt Ltd,2,25
+1108,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,1,37
+1109,0.92,Female,Has relevent experience,Full time course,Graduate,STEM,5,100-499,Funded Startup,1,55
+1110,0.897,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,4,10-49,Pvt Ltd,1,39
+1111,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,100-499,Funded Startup,4,110
+1112,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,18,100-499,Pvt Ltd,>4,50
+1113,0.624,Female,Has relevent experience,Full time course,Graduate,STEM,<1,50-99,Pvt Ltd,1,49
+1114,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,100-499,NGO,2,107
+1115,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,<10,Early Stage Startup,2,109
+1116,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,80
+1117,0.926,Male,No relevent experience,Full time course,Graduate,STEM,14,10-49,Pvt Ltd,1,47
+1118,0.691,Male,Has relevent experience,Part time course,Graduate,STEM,4,50-99,Funded Startup,1,48
+1119,0.855,Unspecified,No relevent experience,no_enrollment,High School,No Major,3,No company,No company,never,70
+1120,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,11,1000-4999,Missing,2,332
+1121,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Funded Startup,1,3
+1122,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,90
+1123,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,7,1000-4999,Pvt Ltd,4,44
+1125,0.624,Male,No relevent experience,Full time course,Graduate,STEM,<1,Missing,Missing,1,232
+1126,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,56
+1127,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,3,50-99,Pvt Ltd,2,78
+1128,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,5000-9999,Pvt Ltd,2,45
+1129,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,never,17
+1131,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,3,66
+1132,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,19,Missing,Missing,1,32
+1134,0.794,Male,Has relevent experience,Full time course,Graduate,STEM,11,100-499,Pvt Ltd,>4,3
+1136,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Pvt Ltd,4,83
+1137,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,50-99,Pvt Ltd,>4,54
+1138,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,3,10000+,Pvt Ltd,1,65
+1139,0.897,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,9,50-99,Missing,3,7
+1140,0.789,Male,Has relevent experience,Part time course,Masters,STEM,11,10-49,Pvt Ltd,3,47
+1141,0.939,Unspecified,No relevent experience,Full time course,High School,No Major,9,No company,No company,never,80
+1142,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,16,100-499,Public Sector,1,4
+1143,0.925,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,500-999,Pvt Ltd,1,24
+1144,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,2,1000-4999,Pvt Ltd,1,26
+1145,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,<10,Pvt Ltd,1,38
+1146,0.802,Unspecified,Has relevent experience,no_enrollment,Phd,STEM,17,50-99,Pvt Ltd,>4,41
+1147,0.92,Female,Has relevent experience,no_enrollment,Graduate,Humanities,9,100-499,Pvt Ltd,>4,200
+1148,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,3,15
+1149,0.913,Male,No relevent experience,Full time course,High School,No Major,5,10-49,Missing,1,36
+1150,0.89,Male,Has relevent experience,no_enrollment,Graduate,Other,5,50-99,Pvt Ltd,never,82
+1151,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,5,10-49,Public Sector,4,74
+1152,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,Missing,Missing,2,61
+1153,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,>4,27
+1154,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Funded Startup,4,146
+1155,0.924,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,50-99,Funded Startup,2,4
+1156,0.92,Female,Has relevent experience,Full time course,High School,No Major,4,10000+,Pvt Ltd,1,50
+1157,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,86
+1158,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Funded Startup,>4,37
+1159,0.804,Unspecified,Has relevent experience,Full time course,Graduate,STEM,10,100-499,Pvt Ltd,1,192
+1160,0.742,Male,No relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,>4,8
+1161,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,12,100-499,Missing,1,17
+1162,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,3,42
+1163,0.624,Male,No relevent experience,Full time course,Graduate,STEM,<1,<10,Pvt Ltd,1,224
+1164,0.92,Male,No relevent experience,Full time course,Graduate,STEM,4,500-999,Pvt Ltd,1,32
+1165,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,1,30
+1166,0.836,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Pvt Ltd,3,105
+1167,0.527,Female,No relevent experience,no_enrollment,Graduate,STEM,<1,50-99,Early Stage Startup,never,81
+1168,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,14,100-499,Pvt Ltd,3,90
+1169,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,9,100-499,Pvt Ltd,1,200
+1170,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Funded Startup,2,21
+1171,0.802,Male,Has relevent experience,no_enrollment,Masters,STEM,7,100-499,Missing,1,14
+1172,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,>4,130
+1173,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,No company,No company,never,60
+1174,0.89,Unspecified,No relevent experience,Full time course,High School,No Major,3,No company,No company,never,22
+1175,0.949,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,>4,105
+1176,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,2,86
+1177,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-499,Pvt Ltd,1,51
+1178,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Missing,>4,228
+1179,0.92,Unspecified,Has relevent experience,Part time course,Graduate,STEM,14,Missing,Missing,4,74
+1180,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,129
+1181,0.924,Male,Has relevent experience,no_enrollment,Masters,STEM,17,100-499,Pvt Ltd,1,83
+1182,0.762,Male,Has relevent experience,Part time course,Masters,STEM,10,10000+,Pvt Ltd,>4,3
+1183,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,>4,27
+1184,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,50-99,Pvt Ltd,4,58
+1185,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-499,Funded Startup,1,102
+1186,0.843,Male,No relevent experience,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,4,89
+1187,0.926,Male,No relevent experience,Full time course,Masters,STEM,9,5000-9999,Pvt Ltd,1,68
+1188,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,19,500-999,Pvt Ltd,1,38
+1189,0.897,Male,No relevent experience,no_enrollment,Graduate,STEM,1,Missing,Missing,1,18
+1190,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,18
+1191,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,<10,Early Stage Startup,1,121
+1192,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,7,1000-4999,Pvt Ltd,1,26
+1193,0.624,Male,Has relevent experience,Full time course,Masters,STEM,2,10000+,Pvt Ltd,1,23
+1194,0.92,Male,No relevent experience,Full time course,High School,No Major,7,10-49,Pvt Ltd,1,88
+1195,0.921,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,6,<10,Pvt Ltd,3,34
+1196,0.7659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,2,26
+1197,0.92,Other,Has relevent experience,Part time course,Graduate,Humanities,8,50-99,NGO,1,306
+1198,0.91,Female,Has relevent experience,no_enrollment,Masters,STEM,10,Missing,Pvt Ltd,1,15
+1200,0.698,Unspecified,No relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,2,168
+1201,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,1000-4999,Pvt Ltd,1,25
+1202,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,182
+1203,0.743,Unspecified,No relevent experience,Full time course,Graduate,Humanities,2,No company,No company,never,298
+1204,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,19,50-99,Pvt Ltd,2,56
+1205,0.836,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,100-499,Pvt Ltd,1,13
+1206,0.926,Male,No relevent experience,no_enrollment,High School,No Major,2,100-499,Pvt Ltd,1,42
+1207,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,19,50-99,Pvt Ltd,2,5
+1208,0.91,Female,Has relevent experience,no_enrollment,Masters,STEM,5,10-49,Pvt Ltd,1,57
+1209,0.738,Male,Has relevent experience,no_enrollment,Graduate,Other,8,100-499,NGO,1,91
+1211,0.698,Male,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,128
+1212,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,58
+1213,0.89,Male,No relevent experience,Full time course,High School,No Major,2,100-499,Pvt Ltd,1,194
+1214,0.895,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,280
+1215,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,61
+1216,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,>4,106
+1217,0.92,Female,Has relevent experience,no_enrollment,Graduate,Arts,4,500-999,Pvt Ltd,2,18
+1218,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,6,10-49,Missing,1,43
+1220,0.897,Male,No relevent experience,Full time course,High School,No Major,4,Missing,Missing,1,4
+1221,0.624,Male,No relevent experience,Full time course,High School,No Major,3,Missing,Pvt Ltd,never,97
+1223,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,3,100-499,Pvt Ltd,1,55
+1224,0.926,Other,No relevent experience,Full time course,High School,No Major,5,100-499,Public Sector,1,15
+1225,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,Missing,Missing,2,58
+1226,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,1,20
+1227,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,3,33
+1228,0.92,Male,No relevent experience,Full time course,Graduate,STEM,6,No company,No company,never,74
+1229,0.624,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,1,10
+1230,0.92,Female,No relevent experience,no_enrollment,Phd,STEM,6,100-499,Funded Startup,2,40
+1231,0.527,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,4,Missing,Missing,4,136
+1232,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,4,36
+1233,0.865,Male,Has relevent experience,Full time course,Graduate,STEM,6,10000+,Pvt Ltd,>4,218
+1234,0.926,Unspecified,No relevent experience,Part time course,Graduate,STEM,6,<10,Pvt Ltd,2,11
+1235,0.92,Male,Has relevent experience,no_enrollment,Graduate,Arts,4,10000+,Pvt Ltd,1,51
+1236,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,2,100-499,Pvt Ltd,1,83
+1237,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,5000-9999,Pvt Ltd,1,31
+1238,0.926,Male,No relevent experience,Full time course,High School,No Major,5,No company,No company,never,68
+1239,0.843,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,2,1000-4999,Pvt Ltd,2,112
+1240,0.8959999999999999,Male,No relevent experience,Full time course,High School,No Major,2,Missing,Missing,1,61
+1241,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,56
+1242,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,10,100-499,Public Sector,4,34
+1243,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,2,45
+1244,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,Missing,Missing,1,6
+1245,0.624,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,4,5000-9999,Pvt Ltd,2,90
+1247,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,Other,4,100-499,Pvt Ltd,2,144
+1248,0.92,Male,No relevent experience,no_enrollment,Masters,STEM,7,5000-9999,Public Sector,1,47
+1249,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,10,10000+,Pvt Ltd,2,48
+1250,0.698,Male,No relevent experience,no_enrollment,Graduate,STEM,10,10-49,Early Stage Startup,1,3
+1251,0.92,Male,No relevent experience,Full time course,Graduate,STEM,4,Missing,Missing,1,12
+1252,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,6
+1253,0.527,Male,No relevent experience,no_enrollment,High School,No Major,4,Missing,Missing,4,27
+1254,0.899,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Funded Startup,4,54
+1255,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,10000+,Pvt Ltd,2,20
+1256,0.855,Female,No relevent experience,Full time course,Graduate,STEM,5,Missing,Missing,1,34
+1257,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,15
+1258,0.893,Male,Has relevent experience,no_enrollment,Masters,STEM,11,500-999,Pvt Ltd,never,40
+1259,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,Missing,Missing,1,14
+1260,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,<10,Early Stage Startup,1,9
+1261,0.926,Unspecified,No relevent experience,no_enrollment,High School,No Major,5,500-999,Public Sector,3,43
+1262,0.738,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Early Stage Startup,1,192
+1263,0.698,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,10,100-499,Pvt Ltd,1,210
+1264,0.91,Female,Has relevent experience,no_enrollment,Phd,STEM,11,No company,No company,never,24
+1265,0.722,Male,Has relevent experience,Part time course,Graduate,STEM,4,100-499,Pvt Ltd,1,16
+1266,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,Pvt Ltd,2,129
+1267,0.92,Male,No relevent experience,Full time course,Masters,Humanities,8,<10,Public Sector,4,56
+1268,0.92,Male,No relevent experience,no_enrollment,High School,No Major,10,Missing,Missing,4,50
+1269,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,17,50-99,Pvt Ltd,>4,56
+1270,0.624,Male,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,28
+1271,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,1000-4999,Public Sector,>4,17
+1272,0.682,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,11,Missing,Missing,2,45
+1273,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-499,Pvt Ltd,1,276
+1274,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,<10,Pvt Ltd,1,6
+1275,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,100-499,Funded Startup,3,61
+1276,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,4,Missing,Missing,2,36
+1277,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,>4,7
+1279,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,256
+1280,0.913,Unspecified,No relevent experience,Full time course,High School,No Major,4,No company,No company,never,4
+1281,0.624,Male,No relevent experience,no_enrollment,High School,No Major,5,Missing,Missing,4,244
+1282,0.897,Male,Has relevent experience,no_enrollment,Masters,Humanities,9,50-99,Pvt Ltd,1,7
+1283,0.893,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,500-999,Pvt Ltd,1,57
+1284,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,2,97
+1285,0.698,Unspecified,No relevent experience,no_enrollment,High School,No Major,<1,No company,No company,never,146
+1286,0.926,Male,No relevent experience,no_enrollment,High School,No Major,6,50-99,Pvt Ltd,4,46
+1287,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,1,103
+1288,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,5000-9999,NGO,2,23
+1289,0.899,Male,Has relevent experience,Full time course,Graduate,STEM,6,10000+,Pvt Ltd,1,36
+1290,0.6890000000000001,Female,No relevent experience,Full time course,Masters,STEM,9,No company,No company,never,10
+1291,0.579,Unspecified,Has relevent experience,Full time course,Graduate,STEM,2,500-999,NGO,2,51
+1292,0.939,Unspecified,No relevent experience,no_enrollment,Graduate,Humanities,9,50-99,Public Sector,never,16
+1293,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Early Stage Startup,1,22
+1294,0.794,Male,No relevent experience,no_enrollment,Graduate,STEM,3,No company,No company,never,74
+1295,0.92,Other,Has relevent experience,no_enrollment,Graduate,STEM,11,100-499,NGO,1,113
+1296,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,5,5000-9999,Pvt Ltd,1,86
+1298,0.913,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,>4,112
+1299,0.624,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,16,100-499,Pvt Ltd,2,12
+1300,0.92,Male,No relevent experience,Full time course,High School,No Major,3,No company,No company,never,24
+1301,0.55,Male,Has relevent experience,Full time course,Graduate,STEM,7,<10,Early Stage Startup,1,11
+1302,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,10,10000+,Public Sector,1,30
+1303,0.913,Male,Has relevent experience,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,>4,27
+1304,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,11,<10,Pvt Ltd,2,38
+1305,0.7759999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,4,312
+1306,0.92,Unspecified,Has relevent experience,Full time course,Graduate,STEM,8,<10,Public Sector,2,32
+1307,0.754,Unspecified,No relevent experience,no_enrollment,High School,No Major,2,No company,No company,never,78
+1308,0.92,Male,Has relevent experience,no_enrollment,Graduate,Arts,10,50-99,Funded Startup,1,125
+1309,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,500-999,Pvt Ltd,1,152
+1310,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,9,10000+,Pvt Ltd,1,49
+1311,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,11,50-99,Pvt Ltd,3,18
+1312,0.92,Male,No relevent experience,Part time course,Masters,STEM,>20,10000+,Pvt Ltd,>4,36
+1313,0.91,Female,Has relevent experience,no_enrollment,Phd,STEM,17,50-99,Pvt Ltd,2,74
+1314,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Funded Startup,1,134
+1315,0.7809999999999999,Other,Has relevent experience,no_enrollment,Graduate,STEM,<1,50-99,Funded Startup,1,62
+1317,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,never,22
+1318,0.743,Female,No relevent experience,Full time course,Masters,STEM,4,Missing,Missing,1,131
+1319,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,4,31
+1320,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,156
+1321,0.624,Female,Has relevent experience,Full time course,Masters,STEM,4,500-999,Pvt Ltd,1,314
+1322,0.926,Male,No relevent experience,Full time course,Graduate,STEM,5,<10,Pvt Ltd,1,102
+1323,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,2,22
+1324,0.926,Male,No relevent experience,Full time course,High School,No Major,7,Missing,Missing,1,26
+1325,0.516,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,2,Missing,Missing,1,28
+1326,0.691,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,2,Missing,Pvt Ltd,never,46
+1327,0.926,Male,No relevent experience,Full time course,High School,No Major,4,500-999,Pvt Ltd,1,63
+1329,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,1000-4999,Pvt Ltd,4,42
+1330,0.7879999999999999,Male,Has relevent experience,Full time course,Masters,STEM,7,Missing,Missing,3,25
+1331,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,<10,Pvt Ltd,4,108
+1332,0.866,Male,No relevent experience,Full time course,Graduate,STEM,5,Missing,Missing,1,64
+1333,0.92,Female,Has relevent experience,no_enrollment,Graduate,Arts,10,50-99,Pvt Ltd,2,81
+1334,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,10,100-499,Pvt Ltd,>4,23
+1335,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,Humanities,16,1000-4999,Pvt Ltd,1,11
+1336,0.745,Male,Has relevent experience,Full time course,Graduate,STEM,5,Missing,Missing,2,17
+1337,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,14
+1338,0.899,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,Missing,Missing,1,18
+1339,0.924,Unspecified,No relevent experience,Full time course,Primary School,No Major,1,No company,No company,never,15
+1340,0.855,Male,Has relevent experience,Full time course,Graduate,STEM,12,50-99,Pvt Ltd,1,100
+1341,0.895,Male,Has relevent experience,no_enrollment,Graduate,Other,8,50-99,Early Stage Startup,1,10
+1342,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,36
+1343,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,1,62
+1344,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,Humanities,>20,100-499,Pvt Ltd,1,90
+1345,0.926,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,31
+1346,0.682,Male,No relevent experience,Full time course,Graduate,STEM,3,No company,No company,never,139
+1347,0.92,Male,No relevent experience,no_enrollment,Primary School,No Major,2,No company,No company,never,108
+1348,0.926,Male,Has relevent experience,Full time course,Masters,STEM,12,100-499,Pvt Ltd,3,151
+1349,0.897,Unspecified,Has relevent experience,no_enrollment,Graduate,Other,10,10-49,Pvt Ltd,1,4
+1350,0.527,Male,No relevent experience,Full time course,High School,No Major,4,No company,No company,never,49
+1351,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,4,64
+1352,0.884,Male,Has relevent experience,Part time course,Graduate,STEM,3,<10,Pvt Ltd,2,6
+1353,0.624,Female,No relevent experience,no_enrollment,Masters,STEM,3,100-499,Missing,1,14
+1354,0.91,Male,No relevent experience,Full time course,High School,No Major,11,<10,Pvt Ltd,3,26
+1355,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,2,26
+1356,0.855,Male,Has relevent experience,Full time course,High School,No Major,11,100-499,Pvt Ltd,3,53
+1357,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,11,100-499,Pvt Ltd,1,152
+1358,0.915,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,1,29
+1359,0.8959999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,15,50-99,Pvt Ltd,>4,2
+1360,0.887,Male,Has relevent experience,no_enrollment,High School,No Major,16,Missing,Missing,1,36
+1361,0.74,Other,No relevent experience,Part time course,High School,No Major,2,50-99,Missing,1,4
+1362,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Pvt Ltd,never,112
+1363,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,19,5000-9999,Pvt Ltd,2,68
+1364,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,15,Missing,Missing,2,210
+1365,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,>4,15
+1366,0.698,Unspecified,No relevent experience,no_enrollment,Masters,STEM,11,100-499,Pvt Ltd,4,160
+1367,0.92,Male,No relevent experience,Full time course,Graduate,STEM,7,10000+,Public Sector,1,10
+1368,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,1,53
+1369,0.92,Unspecified,No relevent experience,Full time course,Graduate,STEM,9,50-99,Pvt Ltd,4,35
+1370,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,100-499,Pvt Ltd,1,1
+1371,0.939,Male,Has relevent experience,no_enrollment,High School,No Major,4,Missing,Missing,2,103
+1372,0.92,Unspecified,No relevent experience,Full time course,Graduate,STEM,1,Missing,Missing,1,54
+1373,0.794,Female,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,86
+1374,0.802,Male,Has relevent experience,no_enrollment,High School,No Major,9,50-99,Pvt Ltd,3,88
+1375,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,15,10-49,Pvt Ltd,2,15
+1376,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,1,61
+1377,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,88
+1378,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,<1,500-999,Pvt Ltd,1,48
+1379,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,40
+1380,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Pvt Ltd,4,56
+1381,0.754,Male,Has relevent experience,Full time course,Masters,STEM,16,1000-4999,Pvt Ltd,2,14
+1382,0.915,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,1000-4999,Pvt Ltd,1,68
+1383,0.92,Male,No relevent experience,no_enrollment,Graduate,Other,1,5000-9999,Pvt Ltd,never,29
+1384,0.743,Unspecified,Has relevent experience,Full time course,Primary School,No Major,2,5000-9999,Pvt Ltd,1,101
+1385,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Early Stage Startup,>4,42
+1387,0.5579999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,15,100-499,Pvt Ltd,4,20
+1388,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,3,100-499,Pvt Ltd,1,3
+1389,0.884,Male,Has relevent experience,no_enrollment,High School,No Major,>20,<10,Pvt Ltd,>4,41
+1390,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,124
+1391,0.754,Male,Has relevent experience,Part time course,Graduate,STEM,4,50-99,Pvt Ltd,1,13
+1392,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Early Stage Startup,2,170
+1393,0.843,Male,Has relevent experience,Part time course,Graduate,STEM,6,1000-4999,Pvt Ltd,1,14
+1394,0.92,Unspecified,No relevent experience,Full time course,High School,No Major,2,1000-4999,Public Sector,2,33
+1395,0.939,Male,Has relevent experience,no_enrollment,High School,No Major,5,Missing,Missing,1,6
+1396,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,15,100-499,Pvt Ltd,2,8
+1398,0.89,Male,Has relevent experience,no_enrollment,High School,No Major,11,<10,Funded Startup,1,56
+1399,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,91
+1400,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,12
+1401,0.91,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,10,Missing,Missing,2,157
+1402,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Pvt Ltd,1,39
+1403,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,61
+1404,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,Missing,Missing,1,8
+1405,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,4,5000-9999,Public Sector,1,20
+1406,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,4,32
+1407,0.91,Male,Has relevent experience,Part time course,Graduate,STEM,>20,100-499,Pvt Ltd,2,56
+1408,0.624,Unspecified,No relevent experience,Full time course,Masters,STEM,<1,No company,No company,never,78
+1409,0.7659999999999999,Male,Has relevent experience,Part time course,Graduate,STEM,4,50-99,Pvt Ltd,1,44
+1410,0.7959999999999999,Unspecified,Has relevent experience,Part time course,Graduate,STEM,6,10-49,Pvt Ltd,4,18
+1411,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,11,500-999,Pvt Ltd,1,32
+1412,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,53
+1413,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,19,50-99,Missing,1,29
+1414,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,11,100-499,Funded Startup,>4,292
+1415,0.92,Male,No relevent experience,no_enrollment,Graduate,No Major,>20,<10,Pvt Ltd,>4,134
+1416,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,4,152
+1417,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,14,Missing,Missing,1,6
+1418,0.89,Male,No relevent experience,no_enrollment,Phd,STEM,>20,100-499,NGO,1,40
+1419,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,Missing,Missing,4,18
+1420,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,7,100-499,Pvt Ltd,1,28
+1421,0.804,Male,Has relevent experience,no_enrollment,Primary School,No Major,>20,<10,Early Stage Startup,1,3
+1423,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,1,107
+1424,0.926,Male,Has relevent experience,Part time course,Masters,STEM,18,50-99,Pvt Ltd,4,149
+1425,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,88
+1426,0.939,Female,Has relevent experience,no_enrollment,Graduate,Other,>20,5000-9999,NGO,>4,46
+1427,0.624,Unspecified,No relevent experience,no_enrollment,Graduate,Other,1,No company,No company,never,10
+1428,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,1,39
+1429,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,2,150
+1430,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,5000-9999,Pvt Ltd,4,62
+1431,0.802,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,Pvt Ltd,2,55
+1432,0.884,Male,Has relevent experience,Part time course,Graduate,STEM,6,<10,Pvt Ltd,1,34
+1433,0.899,Male,No relevent experience,Full time course,Masters,STEM,13,10-49,Pvt Ltd,>4,106
+1434,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,8,100-499,Funded Startup,1,43
+1435,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,500-999,Pvt Ltd,1,20
+1436,0.92,Male,Has relevent experience,Part time course,Masters,STEM,15,Missing,Public Sector,4,37
+1437,0.738,Unspecified,Has relevent experience,Full time course,Masters,STEM,10,1000-4999,Pvt Ltd,1,6
+1439,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,4,1000-4999,Pvt Ltd,2,34
+1440,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Funded Startup,>4,76
+1441,0.843,Male,No relevent experience,Full time course,Masters,STEM,6,100-499,Public Sector,1,210
+1442,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,64
+1443,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,23
+1444,0.895,Male,Has relevent experience,Full time course,Masters,STEM,>20,1000-4999,Public Sector,>4,90
+1445,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,3,54
+1446,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,9
+1447,0.893,Male,Has relevent experience,Full time course,Masters,STEM,13,50-99,Pvt Ltd,1,17
+1448,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,50-99,NGO,1,290
+1449,0.55,Unspecified,No relevent experience,Full time course,Graduate,STEM,6,<10,Missing,1,160
+1450,0.698,Unspecified,No relevent experience,no_enrollment,Phd,STEM,6,No company,No company,never,60
+1451,0.884,Unspecified,No relevent experience,Full time course,Graduate,STEM,6,No company,No company,never,45
+1452,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,2,147
+1453,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,7,50-99,Funded Startup,2,72
+1454,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,26
+1455,0.7759999999999999,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,Pvt Ltd,>4,86
+1456,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,16,50-99,Funded Startup,>4,40
+1457,0.878,Male,No relevent experience,no_enrollment,High School,No Major,3,Missing,Missing,1,74
+1458,0.8959999999999999,Unspecified,No relevent experience,no_enrollment,Graduate,Other,9,10-49,Pvt Ltd,>4,21
+1459,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,<10,Early Stage Startup,1,57
+1460,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,10-49,Pvt Ltd,1,58
+1461,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,34
+1462,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,66
+1463,0.878,Unspecified,No relevent experience,Full time course,Graduate,Business Degree,2,100-499,Pvt Ltd,1,156
+1464,0.89,Male,Has relevent experience,Part time course,High School,No Major,10,10-49,Pvt Ltd,>4,13
+1465,0.745,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,53
+1466,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,<10,Pvt Ltd,2,14
+1467,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,7,500-999,Pvt Ltd,4,77
+1468,0.7879999999999999,Unspecified,No relevent experience,no_enrollment,Masters,Arts,<1,<10,Pvt Ltd,never,26
+1469,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,2,90
+1470,0.745,Male,No relevent experience,no_enrollment,Graduate,STEM,<1,No company,No company,never,15
+1471,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,NGO,2,24
+1472,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,1,44
+1473,0.843,Male,No relevent experience,Full time course,Graduate,STEM,5,No company,No company,never,52
+1474,0.624,Male,No relevent experience,Full time course,High School,No Major,5,No company,No company,never,35
+1475,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Pvt Ltd,>4,8
+1476,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,10000+,Pvt Ltd,1,32
+1477,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,3,10-49,Pvt Ltd,1,300
+1478,0.764,Male,No relevent experience,no_enrollment,Graduate,STEM,3,Missing,Missing,1,50
+1479,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,17
+1480,0.92,Male,Has relevent experience,Full time course,High School,No Major,12,100-499,Pvt Ltd,1,9
+1481,0.764,Male,Has relevent experience,Full time course,Graduate,STEM,5,<10,Pvt Ltd,>4,133
+1482,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,4,53
+1483,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,Missing,Missing,2,105
+1484,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Early Stage Startup,1,43
+1485,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,Missing,Missing,1,119
+1486,0.624,Unspecified,No relevent experience,no_enrollment,Masters,STEM,2,50-99,Pvt Ltd,2,18
+1487,0.926,Unspecified,No relevent experience,no_enrollment,High School,No Major,4,No company,No company,never,45
+1488,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,6,Missing,Missing,1,94
+1489,0.92,Female,No relevent experience,no_enrollment,Graduate,STEM,1,100-499,NGO,1,8
+1490,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,27
+1491,0.926,Male,Has relevent experience,Part time course,Graduate,STEM,12,10000+,Pvt Ltd,1,39
+1492,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,>4,70
+1493,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,3,5000-9999,Pvt Ltd,1,50
+1494,0.7759999999999999,Male,Has relevent experience,Full time course,Masters,STEM,18,100-499,Public Sector,3,65
+1495,0.804,Male,No relevent experience,Full time course,Graduate,STEM,8,Missing,Missing,>4,14
+1496,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,4
+1497,0.939,Male,Has relevent experience,Full time course,Masters,STEM,20,100-499,Pvt Ltd,>4,35
+1498,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-499,Pvt Ltd,3,46
+1499,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,11,50-99,Pvt Ltd,1,61
+1500,0.878,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,>4,47
+1501,0.926,Male,No relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,>4,91
+1502,0.527,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,Missing,Missing,1,46
+1503,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,>4,66
+1504,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,2,85
+1505,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,20,50-99,Pvt Ltd,2,42
+1507,0.767,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,16,100-499,Pvt Ltd,>4,21
+1508,0.843,Male,No relevent experience,Full time course,Masters,STEM,3,Missing,Public Sector,1,80
+1509,0.92,Male,No relevent experience,Full time course,High School,No Major,4,Missing,Missing,1,10
+1511,0.802,Male,No relevent experience,no_enrollment,Graduate,STEM,<1,Missing,Missing,2,29
+1512,0.893,Male,Has relevent experience,Full time course,Graduate,STEM,10,Missing,Missing,2,96
+1513,0.899,Male,No relevent experience,no_enrollment,Graduate,No Major,5,1000-4999,Public Sector,1,79
+1514,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,50
+1515,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,10-49,Pvt Ltd,1,112
+1516,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,42
+1517,0.91,Male,No relevent experience,Full time course,High School,No Major,5,Missing,Missing,1,112
+1518,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,19,Missing,Missing,3,106
+1519,0.91,Other,Has relevent experience,no_enrollment,Graduate,Humanities,5,1000-4999,Pvt Ltd,>4,134
+1520,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,83
+1521,0.92,Unspecified,No relevent experience,no_enrollment,Phd,Humanities,8,100-499,Pvt Ltd,3,23
+1523,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,7,50-99,Pvt Ltd,3,84
+1524,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,3,108
+1525,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,1,64
+1526,0.6890000000000001,Unspecified,Has relevent experience,no_enrollment,Graduate,Humanities,>20,Missing,Missing,1,8
+1527,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,4,Missing,Pvt Ltd,2,41
+1528,0.7759999999999999,Unspecified,Has relevent experience,Part time course,Graduate,STEM,7,Missing,Missing,1,54
+1529,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,Humanities,>20,<10,Early Stage Startup,1,47
+1530,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10-49,Funded Startup,2,35
+1531,0.92,Male,No relevent experience,Full time course,Graduate,STEM,6,Missing,NGO,2,18
+1532,0.913,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,Missing,Missing,>4,212
+1533,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,2,192
+1534,0.897,Male,Has relevent experience,Full time course,Masters,STEM,8,100-499,Pvt Ltd,2,23
+1535,0.74,Male,Has relevent experience,Full time course,Masters,STEM,>20,Missing,Missing,>4,107
+1536,0.804,Male,Has relevent experience,Part time course,Graduate,STEM,13,50-99,Pvt Ltd,1,12
+1537,0.92,Female,No relevent experience,no_enrollment,Graduate,STEM,8,No company,No company,never,46
+1538,0.624,Unspecified,Has relevent experience,Full time course,Masters,STEM,5,50-99,Early Stage Startup,1,52
+1539,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,4
+1540,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,50
+1542,0.5579999999999999,Unspecified,Has relevent experience,Full time course,Graduate,STEM,3,<10,Early Stage Startup,1,9
+1543,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,Funded Startup,1,165
+1544,0.855,Female,Has relevent experience,Full time course,Graduate,STEM,2,Missing,Missing,1,36
+1546,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,500-999,Pvt Ltd,1,4
+1547,0.899,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,1000-4999,Pvt Ltd,never,108
+1548,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,Missing,Missing,1,172
+1549,0.698,Male,No relevent experience,no_enrollment,High School,No Major,16,No company,No company,never,117
+1550,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,11,50-99,Pvt Ltd,1,75
+1551,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,50
+1552,0.913,Female,No relevent experience,no_enrollment,Graduate,Arts,2,50-99,Pvt Ltd,2,262
+1553,0.767,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,Missing,Missing,1,66
+1554,0.92,Male,No relevent experience,Full time course,High School,No Major,7,Missing,Missing,1,332
+1555,0.579,Unspecified,Has relevent experience,Part time course,Masters,STEM,12,50-99,Pvt Ltd,>4,31
+1556,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,never,28
+1557,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,73
+1558,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,2,34
+1559,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,<10,Pvt Ltd,1,91
+1560,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,1,22
+1562,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,126
+1563,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,10
+1564,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,10
+1565,0.624,Male,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,145
+1566,0.925,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Early Stage Startup,1,42
+1567,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,3,12
+1568,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,6,<10,Early Stage Startup,1,4
+1569,0.878,Male,Has relevent experience,Part time course,High School,No Major,12,1000-4999,Pvt Ltd,3,79
+1570,0.624,Male,No relevent experience,no_enrollment,Primary School,No Major,3,No company,No company,never,13
+1571,0.64,Male,No relevent experience,Full time course,Graduate,STEM,6,50-99,Pvt Ltd,1,38
+1572,0.7759999999999999,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,20,Missing,Missing,1,23
+1573,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,100-499,Pvt Ltd,1,78
+1574,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,100-499,NGO,2,2
+1575,0.563,Male,No relevent experience,Full time course,Graduate,STEM,5,5000-9999,Pvt Ltd,1,50
+1576,0.624,Male,No relevent experience,no_enrollment,Graduate,Business Degree,8,No company,No company,never,70
+1577,0.92,Unspecified,Has relevent experience,no_enrollment,Phd,STEM,9,500-999,Pvt Ltd,1,32
+1578,0.89,Male,Has relevent experience,no_enrollment,High School,No Major,15,Missing,Missing,1,66
+1579,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-499,Public Sector,2,90
+1580,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,<10,Missing,1,200
+1581,0.926,Male,Has relevent experience,no_enrollment,Phd,Business Degree,>20,50-99,Pvt Ltd,1,112
+1582,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,15
+1583,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,5,50-99,Pvt Ltd,1,28
+1584,0.939,Male,No relevent experience,Full time course,High School,No Major,3,Missing,Missing,2,22
+1585,0.698,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,30
+1586,0.903,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,35
+1587,0.698,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,19,50-99,NGO,2,25
+1588,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,>4,55
+1589,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,10-49,Pvt Ltd,3,167
+1590,0.91,Unspecified,Has relevent experience,no_enrollment,Phd,STEM,>20,100-499,Missing,>4,21
+1591,0.691,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,10000+,Pvt Ltd,3,7
+1592,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,8,5000-9999,Pvt Ltd,1,23
+1593,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,39
+1594,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,100-499,Pvt Ltd,>4,13
+1595,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,36
+1596,0.767,Male,Has relevent experience,Full time course,Graduate,STEM,6,10-49,Funded Startup,1,155
+1597,0.527,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,41
+1598,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,11,10-49,Pvt Ltd,>4,145
+1599,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,15,500-999,Pvt Ltd,3,29
+1600,0.6659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Pvt Ltd,3,18
+1601,0.89,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,15,Missing,Missing,2,72
+1602,0.926,Male,No relevent experience,Part time course,Masters,STEM,>20,500-999,Public Sector,1,13
+1603,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,<10,Pvt Ltd,1,74
+1604,0.92,Male,No relevent experience,Full time course,High School,No Major,6,Missing,Missing,3,34
+1605,0.887,Female,Has relevent experience,no_enrollment,Graduate,STEM,17,100-499,Pvt Ltd,>4,9
+1606,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,53
+1607,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,6
+1608,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,114
+1609,0.893,Male,Has relevent experience,Full time course,High School,No Major,10,100-499,Pvt Ltd,3,9
+1610,0.727,Male,Has relevent experience,Full time course,Masters,STEM,5,<10,Pvt Ltd,1,25
+1611,0.527,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,3,Missing,Missing,1,17
+1612,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-499,Pvt Ltd,1,13
+1613,0.55,Unspecified,Has relevent experience,Part time course,Masters,STEM,1,50-99,NGO,never,89
+1614,0.92,Male,No relevent experience,no_enrollment,Graduate,Business Degree,12,Missing,Missing,2,59
+1615,0.903,Female,No relevent experience,Part time course,Masters,STEM,<1,10-49,Funded Startup,1,270
+1616,0.848,Male,No relevent experience,no_enrollment,Graduate,STEM,10,No company,No company,never,82
+1617,0.624,Male,No relevent experience,Part time course,Graduate,STEM,2,<10,Pvt Ltd,1,68
+1618,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,2,64
+1619,0.92,Female,No relevent experience,no_enrollment,Masters,STEM,4,1000-4999,Pvt Ltd,1,33
+1620,0.897,Female,No relevent experience,no_enrollment,Phd,STEM,6,Missing,Missing,1,8
+1621,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,2,Missing,Missing,2,81
+1622,0.92,Unspecified,No relevent experience,Part time course,Masters,Humanities,16,10000+,Public Sector,1,60
+1623,0.698,Female,Has relevent experience,no_enrollment,Graduate,STEM,9,100-499,Pvt Ltd,1,18
+1624,0.682,Female,No relevent experience,no_enrollment,Graduate,Other,<1,Missing,Missing,3,135
+1625,0.926,Male,No relevent experience,Full time course,Graduate,Business Degree,5,Missing,Missing,2,19
+1626,0.624,Male,No relevent experience,no_enrollment,Primary School,No Major,1,No company,No company,never,9
+1627,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,19,50-99,Other,never,37
+1628,0.624,Unspecified,No relevent experience,Part time course,Masters,STEM,2,Missing,Missing,2,32
+1629,0.624,Male,No relevent experience,Full time course,Graduate,STEM,2,Missing,Missing,1,46
+1630,0.939,Unspecified,No relevent experience,no_enrollment,Phd,STEM,>20,5000-9999,Pvt Ltd,3,144
+1631,0.926,Male,Has relevent experience,Full time course,Graduate,STEM,11,Missing,Missing,>4,39
+1632,0.579,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,2,28
+1633,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,7,10-49,Pvt Ltd,never,40
+1634,0.767,Male,Has relevent experience,no_enrollment,Masters,STEM,17,50-99,NGO,2,192
+1635,0.762,Male,No relevent experience,Full time course,High School,No Major,3,Missing,Missing,1,30
+1636,0.939,Other,Has relevent experience,no_enrollment,Graduate,STEM,16,No company,No company,never,34
+1637,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,Pvt Ltd,2,50
+1639,0.923,Unspecified,No relevent experience,Full time course,Masters,STEM,4,50-99,Public Sector,3,158
+1640,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,7,Missing,Missing,1,82
+1641,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,11,Missing,Missing,3,52
+1642,0.794,Male,Has relevent experience,Full time course,Graduate,STEM,11,100-499,Pvt Ltd,>4,30
+1643,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,18
+1644,0.6890000000000001,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,5,1000-4999,Pvt Ltd,1,36
+1645,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,30
+1646,0.939,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,5000-9999,Pvt Ltd,1,7
+1647,0.89,Male,Has relevent experience,Part time course,Graduate,STEM,5,<10,Pvt Ltd,4,60
+1648,0.698,Unspecified,No relevent experience,no_enrollment,Masters,Business Degree,8,500-999,Pvt Ltd,1,14
+1649,0.91,Male,Has relevent experience,Full time course,Masters,STEM,4,<10,Pvt Ltd,3,92
+1650,0.624,Female,Has relevent experience,Part time course,Graduate,STEM,7,Missing,Missing,4,2
+1651,0.624,Male,No relevent experience,Full time course,High School,No Major,4,No company,No company,never,48
+1652,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Funded Startup,1,12
+1653,0.84,Male,Has relevent experience,no_enrollment,High School,No Major,13,50-99,Funded Startup,1,36
+1654,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,100-499,Pvt Ltd,1,39
+1655,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,9,1000-4999,Pvt Ltd,1,32
+1656,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,7,Missing,Missing,2,14
+1657,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,35
+1658,0.91,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,6,10000+,Public Sector,1,55
+1659,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Pvt Ltd,1,86
+1660,0.926,Male,No relevent experience,Part time course,Masters,STEM,3,500-999,Public Sector,3,7
+1661,0.579,Male,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,2,54
+1662,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,2,114
+1663,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,11,500-999,Pvt Ltd,1,50
+1664,0.843,Male,Has relevent experience,no_enrollment,Masters,STEM,10,100-499,Public Sector,3,10
+1665,0.893,Male,Has relevent experience,Part time course,Graduate,STEM,14,10-49,Pvt Ltd,1,166
+1666,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,9,Missing,Missing,1,28
+1667,0.789,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,1,57
+1668,0.795,Male,Has relevent experience,no_enrollment,Graduate,No Major,3,1000-4999,Pvt Ltd,1,46
+1669,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10-49,Pvt Ltd,3,25
+1670,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,166
+1671,0.897,Unspecified,No relevent experience,no_enrollment,Masters,STEM,5,50-99,Pvt Ltd,1,46
+1672,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-499,Pvt Ltd,>4,204
+1673,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,never,14
+1674,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,3,43
+1676,0.939,Male,Has relevent experience,no_enrollment,Graduate,Other,7,10-49,Pvt Ltd,3,166
+1677,0.804,Male,No relevent experience,no_enrollment,Masters,STEM,<1,5000-9999,Pvt Ltd,1,75
+1678,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,1,45
+1679,0.92,Unspecified,No relevent experience,no_enrollment,Masters,STEM,3,Missing,Missing,1,90
+1680,0.903,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,1000-4999,Pvt Ltd,>4,140
+1681,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,7,5000-9999,Pvt Ltd,2,80
+1682,0.92,Unspecified,Has relevent experience,Part time course,Graduate,STEM,5,100-499,Pvt Ltd,2,44
+1683,0.74,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,Missing,Missing,2,71
+1684,0.843,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Pvt Ltd,1,29
+1685,0.91,Other,No relevent experience,no_enrollment,Masters,STEM,>20,500-999,Other,>4,148
+1686,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,1,12
+1687,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,15,Missing,Missing,>4,108
+1688,0.789,Male,No relevent experience,Full time course,Graduate,STEM,1,No company,No company,never,60
+1689,0.8959999999999999,Male,No relevent experience,Full time course,High School,No Major,2,Missing,Missing,1,220
+1690,0.926,Male,Has relevent experience,Part time course,Masters,STEM,16,50-99,Pvt Ltd,2,19
+1691,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,Humanities,11,100-499,Pvt Ltd,3,10
+1692,0.8270000000000001,Male,Has relevent experience,Part time course,Graduate,STEM,8,<10,Pvt Ltd,2,86
+1694,0.769,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,500-999,Pvt Ltd,>4,64
+1695,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,16,500-999,Pvt Ltd,4,24
+1696,0.855,Male,Has relevent experience,no_enrollment,Masters,STEM,15,100-499,Pvt Ltd,3,55
+1697,0.743,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,>20,100-499,Pvt Ltd,>4,40
+1698,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,100-499,Pvt Ltd,>4,330
+1699,0.754,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,10-49,Early Stage Startup,1,7
+1700,0.83,Male,No relevent experience,Full time course,High School,No Major,5,10-49,Pvt Ltd,1,20
+1701,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,3,10000+,Pvt Ltd,3,26
+1703,0.698,Male,Has relevent experience,Part time course,Graduate,STEM,6,Missing,Missing,1,162
+1704,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,1,10000+,Pvt Ltd,1,14
+1705,0.895,Male,No relevent experience,Full time course,Masters,STEM,>20,Missing,Missing,1,44
+1706,0.92,Male,Has relevent experience,no_enrollment,Masters,Other,3,5000-9999,Pvt Ltd,2,73
+1707,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,2,No company,No company,never,29
+1708,0.802,Female,Has relevent experience,no_enrollment,Graduate,STEM,14,100-499,Pvt Ltd,1,7
+1709,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,59
+1710,0.884,Female,No relevent experience,no_enrollment,Graduate,Humanities,4,10000+,Pvt Ltd,2,34
+1711,0.754,Male,Has relevent experience,no_enrollment,Masters,STEM,12,Missing,Missing,>4,100
+1712,0.91,Unspecified,No relevent experience,no_enrollment,Masters,STEM,7,50-99,Early Stage Startup,1,18
+1713,0.8270000000000001,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,Missing,Missing,1,62
+1714,0.92,Unspecified,Has relevent experience,Full time course,Graduate,STEM,1,1000-4999,NGO,1,3
+1715,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,17,5000-9999,Public Sector,1,10
+1716,0.698,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,2,Missing,Missing,1,50
+1717,0.926,Unspecified,Has relevent experience,Full time course,Graduate,STEM,1,Missing,Missing,1,53
+1718,0.836,Male,Has relevent experience,Part time course,Graduate,STEM,>20,10-49,Pvt Ltd,1,65
+1719,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10-49,Pvt Ltd,3,41
+1720,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,Missing,Missing,1,53
+1721,0.92,Male,No relevent experience,Full time course,Phd,STEM,10,Missing,Public Sector,>4,52
+1722,0.691,Unspecified,No relevent experience,Full time course,Primary School,No Major,2,Missing,Missing,1,133
+1723,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,Missing,Public Sector,2,156
+1724,0.939,Unspecified,No relevent experience,no_enrollment,Masters,STEM,9,50-99,Pvt Ltd,1,6
+1725,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,5,Missing,Pvt Ltd,never,13
+1727,0.897,Female,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,102
+1728,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,3,500-999,Pvt Ltd,1,6
+1729,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,3,50-99,Pvt Ltd,1,74
+1730,0.698,Unspecified,Has relevent experience,Part time course,Masters,STEM,5,10-49,Pvt Ltd,1,53
+1731,0.7659999999999999,Male,Has relevent experience,Part time course,Graduate,STEM,13,Missing,Missing,>4,324
+1732,0.92,Other,No relevent experience,no_enrollment,Graduate,STEM,4,500-999,Pvt Ltd,3,122
+1733,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,1,127
+1735,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,25
+1736,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,5,100-499,Pvt Ltd,2,69
+1737,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,7,100-499,Public Sector,3,24
+1738,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,16,50-99,Pvt Ltd,1,210
+1739,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,Missing,Missing,2,150
+1740,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,97
+1741,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,never,54
+1742,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,15
+1743,0.926,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,10,10-49,Early Stage Startup,4,170
+1744,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,2,52
+1745,0.8270000000000001,Male,Has relevent experience,no_enrollment,Masters,STEM,17,10-49,Pvt Ltd,1,42
+1746,0.624,Male,Has relevent experience,Part time course,Graduate,STEM,3,10000+,Pvt Ltd,never,105
+1747,0.92,Female,No relevent experience,Full time course,Phd,STEM,7,Missing,NGO,never,89
+1748,0.926,Female,Has relevent experience,no_enrollment,Masters,STEM,9,<10,Pvt Ltd,4,58
+1749,0.55,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,8,50-99,Pvt Ltd,3,162
+1750,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,1,25
+1751,0.7879999999999999,Male,No relevent experience,Part time course,Graduate,STEM,2,Missing,Missing,2,88
+1752,0.92,Female,No relevent experience,Full time course,Graduate,STEM,4,No company,No company,never,4
+1753,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,>20,50-99,Pvt Ltd,>4,36
+1754,0.855,Male,Has relevent experience,no_enrollment,Masters,Business Degree,18,100-499,Pvt Ltd,2,54
+1755,0.624,Unspecified,No relevent experience,Full time course,Masters,STEM,2,100-499,Pvt Ltd,1,55
+1756,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,13,50-99,Funded Startup,1,66
+1757,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,NGO,1,72
+1758,0.923,Male,Has relevent experience,Full time course,Graduate,STEM,9,10000+,Missing,1,212
+1759,0.855,Female,Has relevent experience,Full time course,Graduate,STEM,4,1000-4999,Pvt Ltd,1,5
+1760,0.527,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,6,<10,Pvt Ltd,2,50
+1761,0.624,Male,Has relevent experience,Part time course,Graduate,STEM,14,100-499,Pvt Ltd,2,34
+1762,0.624,Unspecified,No relevent experience,no_enrollment,Masters,STEM,3,50-99,Pvt Ltd,1,126
+1764,0.847,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,9
+1765,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,11,5000-9999,Pvt Ltd,1,9
+1766,0.624,Female,Has relevent experience,no_enrollment,Masters,STEM,6,50-99,Pvt Ltd,1,13
+1767,0.92,Male,No relevent experience,no_enrollment,Graduate,Humanities,17,100-499,Pvt Ltd,>4,24
+1768,0.91,Unspecified,No relevent experience,Full time course,Graduate,STEM,5,50-99,Public Sector,2,10
+1769,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,76
+1770,0.698,Male,No relevent experience,no_enrollment,Graduate,STEM,<1,Missing,Missing,1,48
+1771,0.855,Female,No relevent experience,Full time course,Graduate,Other,5,Missing,Missing,1,38
+1773,0.7959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,100-499,Other,3,52
+1774,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,19,50-99,Pvt Ltd,3,24
+1775,0.949,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,50
+1776,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,2,50-99,Pvt Ltd,2,83
+1777,0.855,Unspecified,Has relevent experience,Part time course,High School,No Major,5,5000-9999,Pvt Ltd,1,33
+1778,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,1,No company,No company,never,34
+1781,0.6890000000000001,Male,No relevent experience,no_enrollment,Graduate,STEM,4,Missing,Missing,1,35
+1782,0.794,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,2,158
+1783,0.91,Male,No relevent experience,no_enrollment,Primary School,No Major,3,Missing,Missing,2,46
+1784,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,No company,No company,never,23
+1785,0.91,Male,Has relevent experience,no_enrollment,Graduate,Other,>20,<10,Early Stage Startup,1,58
+1786,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,500-999,Pvt Ltd,1,75
+1787,0.855,Male,Has relevent experience,Full time course,Graduate,STEM,11,10-49,Missing,1,106
+1788,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,9,100-499,Funded Startup,1,79
+1789,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Pvt Ltd,never,106
+1790,0.92,Male,No relevent experience,no_enrollment,Masters,Humanities,>20,10000+,Pvt Ltd,>4,102
+1791,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,Missing,Pvt Ltd,4,20
+1792,0.895,Unspecified,No relevent experience,Full time course,High School,No Major,3,No company,No company,never,90
+1793,0.624,Female,No relevent experience,no_enrollment,Graduate,STEM,<1,100-499,Public Sector,never,101
+1794,0.92,Male,No relevent experience,Full time course,High School,No Major,4,Missing,Missing,1,59
+1795,0.738,Male,Has relevent experience,no_enrollment,Masters,STEM,14,<10,Early Stage Startup,1,67
+1796,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,61
+1797,0.91,Female,Has relevent experience,no_enrollment,Masters,STEM,8,50-99,Public Sector,2,54
+1798,0.92,Unspecified,Has relevent experience,Part time course,High School,No Major,13,100-499,Pvt Ltd,1,26
+1799,0.926,Unspecified,No relevent experience,Full time course,High School,No Major,6,No company,No company,never,6
+1800,0.7759999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,50-99,Pvt Ltd,2,148
+1801,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,1,80
+1802,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,4,21
+1803,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,26
+1804,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,Missing,Pvt Ltd,2,43
+1805,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,4,60
+1806,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,11,100-499,Pvt Ltd,2,214
+1807,0.878,Male,Has relevent experience,no_enrollment,High School,No Major,6,100-499,Pvt Ltd,never,89
+1808,0.895,Male,No relevent experience,Full time course,High School,No Major,4,10-49,Pvt Ltd,1,89
+1809,0.579,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Pvt Ltd,1,87
+1810,0.7759999999999999,Male,Has relevent experience,no_enrollment,Masters,Other,9,100-499,Pvt Ltd,1,21
+1811,0.915,Female,No relevent experience,Full time course,Graduate,STEM,5,10-49,Pvt Ltd,1,21
+1812,0.893,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,85
+1813,0.55,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,2,Missing,Missing,1,25
+1814,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,2,5000-9999,Pvt Ltd,1,57
+1815,0.855,Male,Has relevent experience,Full time course,Graduate,STEM,7,50-99,Pvt Ltd,2,39
+1816,0.6890000000000001,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,14,Missing,Missing,2,21
+1817,0.624,Male,No relevent experience,Full time course,High School,No Major,4,Missing,Missing,1,55
+1818,0.6890000000000001,Male,No relevent experience,no_enrollment,Graduate,STEM,20,No company,No company,never,66
+1819,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-499,Pvt Ltd,4,2
+1820,0.698,Male,No relevent experience,no_enrollment,Graduate,STEM,11,10-49,Funded Startup,1,51
+1821,0.6890000000000001,Male,No relevent experience,Full time course,Graduate,STEM,<1,10-49,Pvt Ltd,1,43
+1822,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,1,69
+1823,0.92,Other,No relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,>4,30
+1824,0.92,Female,No relevent experience,Full time course,Graduate,STEM,6,Missing,Missing,1,23
+1825,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,152
+1826,0.926,Male,Has relevent experience,Full time course,Graduate,STEM,3,10-49,Early Stage Startup,1,8
+1827,0.802,Unspecified,Has relevent experience,Full time course,Graduate,STEM,16,5000-9999,Pvt Ltd,1,21
+1828,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,3,144
+1829,0.579,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-499,Pvt Ltd,1,157
+1830,0.743,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,NGO,>4,17
+1831,0.767,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,3,62
+1832,0.802,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,1,102
+1833,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10-49,Pvt Ltd,4,13
+1834,0.91,Male,No relevent experience,no_enrollment,High School,No Major,11,Missing,Missing,1,78
+1835,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,>20,500-999,Pvt Ltd,>4,10
+1836,0.92,Male,No relevent experience,no_enrollment,Primary School,No Major,2,Missing,Pvt Ltd,never,45
+1838,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,14,50-99,Early Stage Startup,1,110
+1839,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,No company,No company,never,19
+1841,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,1,46
+1842,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,7,100-499,Public Sector,4,332
+1843,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,6,100-499,Pvt Ltd,4,51
+1844,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,>20,10-49,Pvt Ltd,1,60
+1845,0.92,Male,No relevent experience,Full time course,Graduate,STEM,3,5000-9999,Pvt Ltd,1,56
+1846,0.926,Male,Has relevent experience,no_enrollment,Graduate,Other,13,<10,Funded Startup,2,112
+1847,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,Missing,Pvt Ltd,1,78
+1848,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,62
+1849,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,>4,140
+1850,0.899,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,NGO,1,17
+1851,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,<10,Funded Startup,1,214
+1852,0.624,Male,Has relevent experience,Part time course,Masters,STEM,7,Missing,Missing,2,66
+1853,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,11
+1854,0.926,Female,No relevent experience,Full time course,Graduate,STEM,17,<10,NGO,1,57
+1855,0.795,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,7,<10,Funded Startup,1,27
+1856,0.698,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,4,<10,Funded Startup,1,34
+1857,0.91,Male,No relevent experience,Full time course,Graduate,STEM,7,100-499,Public Sector,1,50
+1858,0.92,Female,No relevent experience,no_enrollment,Graduate,Other,2,500-999,Missing,1,27
+1859,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,2,100-499,Pvt Ltd,1,41
+1860,0.91,Male,Has relevent experience,no_enrollment,High School,No Major,8,10000+,Other,1,7
+1861,0.855,Male,Has relevent experience,Full time course,High School,No Major,3,<10,Pvt Ltd,1,32
+1862,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10000+,Pvt Ltd,2,69
+1863,0.92,Female,No relevent experience,no_enrollment,Masters,Humanities,6,10-49,Early Stage Startup,1,113
+1864,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,7,10000+,Pvt Ltd,2,30
+1865,0.91,Unspecified,No relevent experience,no_enrollment,High School,No Major,<1,No company,No company,never,31
+1866,0.926,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,60
+1867,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Public Sector,1,61
+1869,0.92,Male,No relevent experience,Full time course,High School,No Major,5,Missing,Missing,1,88
+1870,0.89,Male,Has relevent experience,Full time course,High School,No Major,9,Missing,Missing,1,52
+1871,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,1,11
+1872,0.624,Unspecified,No relevent experience,Full time course,High School,No Major,5,No company,No company,never,89
+1873,0.843,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,1,33
+1874,0.91,Male,No relevent experience,Full time course,Masters,STEM,7,Missing,Public Sector,1,68
+1875,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,>20,Missing,Missing,1,56
+1876,0.698,Male,No relevent experience,Full time course,Graduate,STEM,5,10-49,NGO,1,218
+1877,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Funded Startup,2,57
+1878,0.926,Male,No relevent experience,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,3,148
+1879,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,Missing,Missing,1,2
+1880,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,4,100-499,Funded Startup,2,46
+1881,0.878,Male,Has relevent experience,no_enrollment,Masters,STEM,13,Missing,Missing,1,3
+1882,0.884,Male,No relevent experience,Part time course,High School,No Major,7,100-499,Pvt Ltd,1,9
+1883,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,Pvt Ltd,1,130
+1884,0.92,Unspecified,No relevent experience,Full time course,Graduate,STEM,2,Missing,Missing,2,9
+1885,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,4,10000+,Pvt Ltd,2,21
+1886,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,10,50-99,Public Sector,2,23
+1887,0.8270000000000001,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,2,100
+1888,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10-49,Funded Startup,1,104
+1889,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,>4,42
+1890,0.555,Male,No relevent experience,Full time course,Graduate,STEM,1,Missing,Missing,1,9
+1891,0.579,Male,Has relevent experience,no_enrollment,Masters,STEM,2,10-49,Pvt Ltd,1,37
+1892,0.926,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,2,No company,No company,never,109
+1893,0.698,Male,Has relevent experience,no_enrollment,High School,No Major,6,<10,Funded Startup,2,81
+1894,0.855,Male,Has relevent experience,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,2,4
+1895,0.893,Male,Has relevent experience,no_enrollment,High School,No Major,10,50-99,Early Stage Startup,2,53
+1896,0.7759999999999999,Male,Has relevent experience,Full time course,Graduate,STEM,11,100-499,Missing,4,88
+1897,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,5
+1898,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,3,50-99,Missing,never,132
+1899,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,3,23
+1900,0.7659999999999999,Male,Has relevent experience,Part time course,Graduate,STEM,10,500-999,Pvt Ltd,2,63
+1901,0.926,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,2,334
+1902,0.74,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,13,Missing,Missing,>4,37
+1903,0.624,Male,No relevent experience,Full time course,Masters,STEM,5,Missing,Missing,1,129
+1904,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,10
+1905,0.887,Male,Has relevent experience,Full time course,Graduate,STEM,10,Missing,Missing,2,16
+1906,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,500-999,Pvt Ltd,1,86
+1907,0.6659999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,16,Missing,Missing,3,46
+1908,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,10,<10,Funded Startup,1,57
+1909,0.926,Male,Has relevent experience,no_enrollment,High School,No Major,7,<10,Pvt Ltd,2,55
+1911,0.884,Unspecified,Has relevent experience,Part time course,Graduate,STEM,15,10000+,Missing,>4,83
+1913,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,Other,9,Missing,Missing,>4,15
+1914,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,1,47
+1915,0.924,Male,No relevent experience,no_enrollment,Phd,STEM,17,50-99,NGO,3,36
+1916,0.855,Male,No relevent experience,Full time course,Phd,STEM,9,Missing,Missing,>4,32
+1917,0.92,Male,No relevent experience,Full time course,Graduate,STEM,4,Missing,Missing,1,14
+1918,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,100-499,Funded Startup,1,9
+1919,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,50-99,Funded Startup,1,34
+1920,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,2,95
+1921,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Public Sector,2,39
+1922,0.887,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,1,81
+1923,0.925,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,>4,6
+1924,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,<10,Early Stage Startup,1,21
+1925,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,500-999,Funded Startup,1,60
+1926,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,Pvt Ltd,2,288
+1928,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,4,50-99,Pvt Ltd,4,13
+1929,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,500-999,Pvt Ltd,1,108
+1930,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10-49,Pvt Ltd,>4,282
+1931,0.624,Unspecified,No relevent experience,Full time course,Graduate,STEM,<1,No company,No company,never,54
+1932,0.698,Unspecified,No relevent experience,Full time course,Graduate,STEM,2,Missing,Missing,1,77
+1933,0.92,Unspecified,No relevent experience,no_enrollment,Masters,STEM,6,5000-9999,NGO,1,87
+1934,0.624,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,<1,Missing,Pvt Ltd,never,151
+1935,0.624,Unspecified,Has relevent experience,Full time course,Graduate,STEM,6,Missing,Missing,4,32
+1936,0.92,Female,No relevent experience,Part time course,Graduate,STEM,2,50-99,Funded Startup,1,35
+1937,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,<1,10-49,Early Stage Startup,1,300
+1938,0.6890000000000001,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,11,100-499,Pvt Ltd,4,114
+1939,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,18,10-49,Pvt Ltd,2,21
+1940,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,Missing,Public Sector,1,62
+1941,0.848,Male,Has relevent experience,no_enrollment,High School,No Major,10,50-99,Pvt Ltd,2,28
+1942,0.915,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,>4,47
+1943,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10-49,Pvt Ltd,1,46
+1944,0.92,Female,No relevent experience,Full time course,Graduate,STEM,3,<10,Early Stage Startup,1,104
+1946,0.767,Male,Has relevent experience,Full time course,Graduate,STEM,4,<10,Pvt Ltd,never,26
+1947,0.887,Unspecified,Has relevent experience,no_enrollment,High School,No Major,>20,10-49,Pvt Ltd,2,37
+1948,0.887,Male,Has relevent experience,no_enrollment,High School,No Major,4,100-499,Pvt Ltd,1,51
+1949,0.91,Unspecified,No relevent experience,no_enrollment,Graduate,Business Degree,<1,No company,No company,never,42
+1950,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,1,248
+1951,0.939,Male,Has relevent experience,Full time course,High School,No Major,9,Missing,Missing,1,28
+1952,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,<10,Pvt Ltd,1,158
+1953,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,500-999,Pvt Ltd,1,73
+1954,0.91,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,5,Missing,Pvt Ltd,never,21
+1955,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,4,10000+,Public Sector,1,17
+1956,0.91,Male,No relevent experience,no_enrollment,Masters,STEM,4,50-99,Pvt Ltd,1,101
+1957,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,4,42
+1958,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,166
+1959,0.698,Male,Has relevent experience,Full time course,Graduate,STEM,5,100-499,Pvt Ltd,1,192
+1960,0.926,Unspecified,Has relevent experience,no_enrollment,High School,No Major,>20,Missing,Missing,>4,62
+1961,0.691,Unspecified,Has relevent experience,no_enrollment,Graduate,Other,3,Missing,Missing,>4,84
+1962,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,54
+1963,0.887,Male,Has relevent experience,no_enrollment,Graduate,No Major,11,Missing,Missing,1,9
+1964,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Early Stage Startup,1,40
+1965,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,50-99,Funded Startup,1,102
+1966,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,22
+1967,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,7,100-499,Missing,1,108
+1968,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,>4,56
+1969,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,1,18
+1970,0.55,Unspecified,Has relevent experience,Full time course,Graduate,STEM,4,50-99,Pvt Ltd,1,22
+1971,0.887,Male,Has relevent experience,no_enrollment,Masters,STEM,14,100-499,Pvt Ltd,4,144
+1972,0.92,Unspecified,No relevent experience,no_enrollment,Primary School,No Major,4,No company,No company,never,47
+1973,0.698,Male,No relevent experience,Full time course,Graduate,STEM,2,No company,No company,never,41
+1974,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Pvt Ltd,2,12
+1975,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,>4,19
+1976,0.92,Male,No relevent experience,Part time course,Graduate,STEM,2,Missing,Missing,1,96
+1977,0.926,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,14,5000-9999,Pvt Ltd,>4,44
+1978,0.92,Unspecified,No relevent experience,no_enrollment,High School,No Major,2,No company,No company,never,89
+1979,0.843,Male,Has relevent experience,no_enrollment,Masters,STEM,12,50-99,Funded Startup,1,55
+1980,0.83,Male,Has relevent experience,no_enrollment,Graduate,No Major,7,50-99,Public Sector,2,30
+1981,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,4,160
+1982,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,2,100-499,Pvt Ltd,1,142
+1983,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,12,100-499,Pvt Ltd,never,31
+1984,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,500-999,Public Sector,2,8
+1985,0.92,Unspecified,Has relevent experience,Part time course,Masters,STEM,>20,100-499,Pvt Ltd,>4,79
+1986,0.92,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,6,100-499,Pvt Ltd,1,26
+1987,0.698,Unspecified,No relevent experience,Full time course,Graduate,STEM,4,Missing,Missing,1,7
+1988,0.92,Male,No relevent experience,no_enrollment,Masters,Business Degree,2,1000-4999,Pvt Ltd,1,29
+1989,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,14,1000-4999,Public Sector,>4,7
+1990,0.6659999999999999,Female,Has relevent experience,no_enrollment,Graduate,Humanities,14,Missing,Missing,1,23
+1991,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,1,39
+1992,0.89,Male,No relevent experience,Full time course,High School,No Major,6,No company,No company,never,114
+1993,0.6890000000000001,Male,Has relevent experience,no_enrollment,Masters,STEM,7,50-99,Early Stage Startup,1,76
+1994,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,12,<10,Pvt Ltd,1,70
+1995,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,2,14
+1996,0.624,Unspecified,No relevent experience,Part time course,Graduate,STEM,2,10-49,Pvt Ltd,1,58
+1998,0.866,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,Missing,Missing,1,99
+1999,0.55,Unspecified,No relevent experience,Full time course,Graduate,STEM,1,No company,No company,never,44
+2000,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,19,50-99,Pvt Ltd,2,58
+2001,0.794,Unspecified,Has relevent experience,Full time course,Graduate,STEM,2,50-99,Pvt Ltd,2,11
+2002,0.923,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,52
+2003,0.624,Male,No relevent experience,Full time course,Graduate,STEM,1,10-49,Early Stage Startup,1,11
+2004,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,3,194
+2005,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,10,Missing,Public Sector,1,31
+2006,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Funded Startup,1,124
+2007,0.887,Unspecified,No relevent experience,no_enrollment,Masters,Humanities,4,Missing,Missing,3,9
+2008,0.92,Male,No relevent experience,Full time course,Graduate,STEM,5,500-999,Pvt Ltd,4,36
+2009,0.926,Male,No relevent experience,no_enrollment,Graduate,Humanities,<1,Missing,Missing,4,56
+2010,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,1000-4999,Pvt Ltd,3,73
+2011,0.939,Male,No relevent experience,Full time course,Graduate,STEM,1,No company,No company,never,18
+2012,0.924,Male,No relevent experience,no_enrollment,Primary School,No Major,15,10000+,Pvt Ltd,2,156
+2013,0.5579999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-499,Pvt Ltd,2,80
+2014,0.802,Male,Has relevent experience,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,27
+2015,0.926,Male,No relevent experience,no_enrollment,High School,No Major,9,<10,Pvt Ltd,1,170
+2016,0.91,Male,Has relevent experience,no_enrollment,Graduate,Other,9,<10,Pvt Ltd,1,41
+2017,0.897,Male,Has relevent experience,no_enrollment,Graduate,No Major,>20,<10,Pvt Ltd,2,29
+2018,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-499,Missing,3,38
+2019,0.926,Male,Has relevent experience,Full time course,Graduate,STEM,4,100-499,Pvt Ltd,2,12
+2021,0.91,Other,Has relevent experience,no_enrollment,High School,No Major,8,50-99,Pvt Ltd,1,18
+2022,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,100-499,Pvt Ltd,1,18
+2023,0.893,Male,Has relevent experience,Part time course,Graduate,STEM,13,10-49,Funded Startup,1,50
+2024,0.722,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,10-49,Missing,1,158
+2025,0.8270000000000001,Male,No relevent experience,no_enrollment,Primary School,No Major,5,No company,No company,never,14
+2026,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,8,10000+,Pvt Ltd,4,47
+2027,0.848,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-499,Pvt Ltd,2,102
+2028,0.884,Male,Has relevent experience,no_enrollment,High School,No Major,6,10-49,Funded Startup,3,104
+2029,0.92,Other,Has relevent experience,Part time course,Graduate,STEM,5,<10,Missing,2,84
+2030,0.92,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,14,100-499,Pvt Ltd,2,18
+2031,0.624,Female,No relevent experience,no_enrollment,Graduate,STEM,<1,Missing,Missing,1,50
+2032,0.579,Unspecified,Has relevent experience,Full time course,Graduate,STEM,<1,Missing,Missing,2,84
+2033,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Pvt Ltd,>4,32
+2034,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10-49,Funded Startup,1,112
+2035,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,<10,Pvt Ltd,>4,15
+2036,0.836,Male,Has relevent experience,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,12
+2037,0.5579999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,Missing,Missing,1,132
+2038,0.926,Male,No relevent experience,Part time course,Primary School,No Major,3,Missing,Pvt Ltd,never,100
+2039,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,11,Missing,Missing,2,16
+2040,0.55,Male,Has relevent experience,Full time course,Graduate,STEM,19,10-49,Pvt Ltd,>4,19
+2041,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,10-49,Funded Startup,2,31
+2042,0.555,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,19
+2043,0.767,Other,No relevent experience,no_enrollment,Primary School,No Major,6,No company,No company,never,26
+2044,0.91,Male,No relevent experience,Full time course,Graduate,Arts,6,<10,Pvt Ltd,1,45
+2045,0.895,Male,No relevent experience,Part time course,Graduate,STEM,4,Missing,Missing,2,78
+2046,0.5579999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,50-99,Other,2,31
+2047,0.92,Female,Has relevent experience,Full time course,Graduate,STEM,3,Missing,Missing,1,46
+2048,0.92,Male,Has relevent experience,no_enrollment,Graduate,Other,>20,10-49,Pvt Ltd,2,41
+2049,0.92,Male,No relevent experience,Full time course,Graduate,STEM,3,No company,No company,never,40
+2050,0.92,Male,No relevent experience,no_enrollment,High School,No Major,6,No company,No company,never,25
+2051,0.913,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,20,100-499,Pvt Ltd,2,47
+2052,0.682,Female,Has relevent experience,no_enrollment,Graduate,STEM,12,100-499,Pvt Ltd,1,45
+2053,0.925,Male,No relevent experience,Part time course,High School,No Major,2,500-999,Pvt Ltd,1,14
+2054,0.624,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,1,10000+,Pvt Ltd,1,258
+2055,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,5,<10,Early Stage Startup,1,66
+2056,0.92,Male,No relevent experience,Full time course,Masters,STEM,8,Missing,Missing,1,106
+2057,0.7759999999999999,Male,Has relevent experience,Part time course,Graduate,STEM,5,5000-9999,Pvt Ltd,4,26
+2058,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,50-99,Pvt Ltd,1,46
+2059,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,1,96
+2060,0.624,Male,No relevent experience,Full time course,Masters,STEM,<1,100-499,Pvt Ltd,3,72
+2061,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,100-499,Pvt Ltd,3,18
+2062,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,18
+2064,0.698,Male,No relevent experience,Part time course,Graduate,STEM,13,Missing,Missing,2,71
+2065,0.624,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,7,500-999,Pvt Ltd,1,25
+2068,0.682,Male,Has relevent experience,no_enrollment,Graduate,Arts,9,10-49,Funded Startup,1,42
+2069,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Missing,Missing,3,12
+2070,0.939,Male,Has relevent experience,no_enrollment,Graduate,Arts,15,100-499,Pvt Ltd,1,54
+2071,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,50-99,Pvt Ltd,>4,44
+2072,0.92,Unspecified,No relevent experience,Full time course,Graduate,STEM,3,100-499,Pvt Ltd,1,57
+2073,0.743,Male,Has relevent experience,no_enrollment,Masters,Business Degree,7,50-99,Pvt Ltd,4,112
+2075,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,9,10-49,Pvt Ltd,1,86
+2076,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,Missing,Missing,1,29
+2077,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-499,Pvt Ltd,4,21
+2078,0.92,Female,No relevent experience,Part time course,High School,No Major,1,10000+,Pvt Ltd,1,57
+2079,0.848,Male,Has relevent experience,no_enrollment,Graduate,STEM,<1,Missing,Missing,>4,139
+2080,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,8,50-99,Public Sector,1,37
+2081,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,9,50-99,Pvt Ltd,2,42
+2082,0.624,Unspecified,Has relevent experience,Full time course,Masters,STEM,<1,10-49,Funded Startup,2,15
+2083,0.926,Unspecified,Has relevent experience,no_enrollment,High School,No Major,7,100-499,Pvt Ltd,3,40
+2084,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,10-49,Pvt Ltd,4,51
+2085,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-499,Pvt Ltd,1,21
+2086,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,>4,56
+2087,0.92,Male,No relevent experience,Full time course,Graduate,STEM,5,10000+,Public Sector,1,30
+2088,0.698,Male,Has relevent experience,Full time course,Masters,STEM,6,Missing,Missing,1,167
+2089,0.89,Male,No relevent experience,Full time course,Masters,STEM,9,Missing,Missing,1,110
+2090,0.91,Unspecified,No relevent experience,no_enrollment,Masters,STEM,4,5000-9999,Public Sector,1,37
+2091,0.92,Male,Has relevent experience,no_enrollment,High School,No Major,12,10-49,Early Stage Startup,1,130
+2092,0.624,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,6,500-999,Pvt Ltd,never,36
+2094,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10-49,Pvt Ltd,>4,108
+2095,0.74,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,8,<10,Pvt Ltd,1,9
+2096,0.698,Male,Has relevent experience,no_enrollment,High School,No Major,12,50-99,Pvt Ltd,1,8
+2097,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,<1,500-999,Pvt Ltd,never,86
+2098,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,17,100-499,Pvt Ltd,4,33
+2099,0.698,Male,No relevent experience,no_enrollment,Graduate,No Major,8,50-99,Other,4,72
+2100,0.92,Male,Has relevent experience,no_enrollment,Graduate,Arts,14,10-49,Pvt Ltd,4,74
+2101,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,<10,Pvt Ltd,4,58
+2102,0.92,Unspecified,No relevent experience,Full time course,High School,No Major,3,Missing,Missing,1,41
+2103,0.92,Unspecified,No relevent experience,no_enrollment,Graduate,Business Degree,9,Missing,Public Sector,2,46
+2104,0.92,Male,No relevent experience,Full time course,Graduate,STEM,1,No company,No company,never,101
+2105,0.767,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,Missing,Missing,1,61
+2106,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,16,10000+,Pvt Ltd,4,48
+2107,0.91,Unspecified,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,never,138
+2109,0.893,Male,Has relevent experience,no_enrollment,Masters,Humanities,20,50-99,Pvt Ltd,1,26
+2110,0.698,Unspecified,Has relevent experience,no_enrollment,Masters,STEM,15,50-99,Pvt Ltd,>4,157
+2111,0.91,Other,No relevent experience,no_enrollment,Graduate,No Major,6,Missing,Missing,1,78
+2112,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Pvt Ltd,1,36
+2113,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-499,Public Sector,1,16
+2114,0.754,Unspecified,Has relevent experience,no_enrollment,High School,No Major,>20,50-99,Pvt Ltd,2,31
+2115,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-499,Pvt Ltd,1,8
+2116,0.939,Male,Has relevent experience,no_enrollment,High School,No Major,>20,100-499,Public Sector,2,58
+2117,0.725,Male,No relevent experience,Part time course,Graduate,STEM,7,<10,Early Stage Startup,never,160
+2118,0.836,Male,Has relevent experience,no_enrollment,High School,No Major,14,Missing,Missing,1,42
+2119,0.698,Unspecified,No relevent experience,Full time course,High School,No Major,8,No company,No company,never,55
+2120,0.926,Male,No relevent experience,no_enrollment,High School,No Major,5,No company,No company,never,32
+2121,0.878,Male,No relevent experience,no_enrollment,Masters,STEM,16,<10,Pvt Ltd,>4,58
+2122,0.698,Unspecified,No relevent experience,no_enrollment,Graduate,STEM,20,No company,No company,never,133
+2123,0.624,Female,No relevent experience,Full time course,High School,No Major,3,No company,No company,never,56
+2124,0.92,Male,No relevent experience,no_enrollment,Graduate,Humanities,16,Missing,Public Sector,4,15
+2125,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,18,Missing,Missing,2,30
+2126,0.887,Male,No relevent experience,no_enrollment,Primary School,No Major,3,Missing,Pvt Ltd,never,18
+2127,0.804,Male,Has relevent experience,Full time course,High School,No Major,7,100-499,Public Sector,1,84
+2128,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,2,11
