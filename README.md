@@ -16,7 +16,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Problem Definition
 
-Predicting whether a person will find a new job or remain unchanged based on his information such as demographics, education and working experience.
+Predicting whether a person will find a new job or remain unchanged based on information such as demographics, education and working experience.
 
 
 ## Models Used
