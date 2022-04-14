@@ -10,9 +10,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @MAXTAN3110
-- @uigure
-- @kcz358
+- @MAXTAN3110: Data Cleaning & EDA
+- @uigure: Data Visualisation & EDA 
+- @kcz358: Model Building
 
 ## Problem Definition
 
